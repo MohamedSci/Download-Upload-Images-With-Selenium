@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="download_upload_images.CSVFolderCreator">
+      <class name="download_upload_images.Base64ImageConverter">
         <methods>
-          <include name="main"/>
+          <include name="Base64ImageConverterTest"/>
         </methods>
-      </class> <!-- download_upload_images.CSVFolderCreator -->
+      </class> <!-- download_upload_images.Base64ImageConverter -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

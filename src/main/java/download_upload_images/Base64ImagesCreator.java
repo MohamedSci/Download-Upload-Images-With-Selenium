@@ -136,7 +136,7 @@ public class Base64ImagesCreator {
 	}
 
 	@Test
-	public void main() throws InterruptedException {
+	public void Base64ImagesCreatorTest() throws InterruptedException {
 		createAreaFolders();
 
 		setupDriver();
