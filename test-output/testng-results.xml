@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-02-10T21:02:37 EET" name="Default suite" finished-at="2024-02-10T21:03:02 EET" duration-ms="25204">
+  <suite started-at="2024-02-11T14:22:55 EET" name="Default suite" finished-at="2024-02-11T14:22:55 EET" duration-ms="132">
     <groups>
     </groups>
-    <test started-at="2024-02-10T21:02:37 EET" name="Default test" finished-at="2024-02-10T21:03:02 EET" duration-ms="25204">
-      <class name="download_upload_images.Base64ImageConverter">
-        <test-method signature="Base64ImageConverterTest()[pri:0, instance:download_upload_images.Base64ImageConverter@5876a9af]" started-at="2024-02-10T21:02:37 EET" name="Base64ImageConverterTest" finished-at="2024-02-10T21:03:02 EET" duration-ms="25161" status="PASS">
+    <test started-at="2024-02-11T14:22:55 EET" name="Default test" finished-at="2024-02-11T14:22:55 EET" duration-ms="132">
+      <class name="download_upload_images.CelebrityPhotosScraper">
+        <test-method signature="CelebrityPhotosScraperTest()[pri:0, instance:download_upload_images.CelebrityPhotosScraper@5876a9af]" started-at="2024-02-11T14:22:55 EET" name="CelebrityPhotosScraperTest" finished-at="2024-02-11T14:22:55 EET" duration-ms="96" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- Base64ImageConverterTest -->
-      </class> <!-- download_upload_images.Base64ImageConverter -->
+        </test-method> <!-- CelebrityPhotosScraperTest -->
+      </class> <!-- download_upload_images.CelebrityPhotosScraper -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

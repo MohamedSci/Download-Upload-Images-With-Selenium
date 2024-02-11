@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="download_upload_images.Base64ImageConverter">
+      <class name="download_upload_images.ImageUploader2222222">
         <methods>
-          <include name="Base64ImageConverterTest"/>
+          <include name="ImageUploaderTest"/>
         </methods>
-      </class> <!-- download_upload_images.Base64ImageConverter -->
+      </class> <!-- download_upload_images.ImageUploader2222222 -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
