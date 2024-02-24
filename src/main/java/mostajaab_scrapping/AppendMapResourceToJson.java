@@ -11,7 +11,7 @@ import java.util.HashMap;
 
 public class AppendMapResourceToJson {
 
-    public static void AppendMapResourceToJsonFuv(String key, ArrayList<HashMap<String, String>> value) {
+    public static void AppendMapResourceToJsonFuv(String key, ArrayList<String> value) {
         String fileName = "doaa_data.json";
         JSONObject newMapResource = new JSONObject();
         newMapResource.put(key, value);
