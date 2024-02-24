@@ -3,12 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="mostajaab_scrapping.MostajaabMainScrapperTest">
+      <class name="tareq_swidan_asmaa_allah.TareqSwidanAsmaaAllah">
         <methods>
-          <include name="MostajaabMainScrapperTest"/>
           <include name="setupDriver"/>
+          <include name="createKeyValueMap"/>
+          <include name="quitDriver"/>
         </methods>
-      </class> <!-- mostajaab_scrapping.MostajaabMainScrapperTest -->
+      </class> <!-- tareq_swidan_asmaa_allah.TareqSwidanAsmaaAllah -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
