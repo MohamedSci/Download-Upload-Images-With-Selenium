@@ -1,51 +1,46 @@
 package download_upload_images;
 import java.io.File;
-import java.io.FileWriter;
-import java.io.IOException;
 import java.util.*;
 
-import org.testng.annotations.Test;
+
+import com.google.gson.Gson;
 
 
 public class MakeJsonforCelebrityAndRelatedPhotos {
 	
-    File ancestorDirectory = new File("D:\\celebrities_photos\\celebrities_photos_images");
-    List<Map<String, List<String>>> listOfMaps = new ArrayList<>();
+    static File ancestorDirectory = new File("D:\\celebrities_photos\\celebrities_photos_images");
+    String jsonFilePath = "D:\\celebrities_photos\\celebrities_data_all2.json";
+    static List<Map<String, List<String>>> listOfMaps = new ArrayList<Map<String, List<String>>>();
+    Gson gson = new Gson();
+
     
-	@Test
-    public  void CelebrityPhotosScraperTest() {
-        // Loop through parent directories
+	public static void main(String[] args) {
+//         Loop through parent directories
         for (File parentDirectory : Objects.requireNonNull(ancestorDirectory.listFiles())) {
             if (parentDirectory.isDirectory()) {
                 Map<String, List<String>> celebrityMap = new HashMap<>();
                 List<String> photoPaths = new ArrayList<>();
                 String celebrityName = "";
-                // Loop through subfolders
+//                 Loop through subfolders
                 for (File subFolder : Objects.requireNonNull(parentDirectory.listFiles())) {
                     if (subFolder.isDirectory()) {
                         celebrityName = subFolder.getName();
-
-                        // Loop through .jpg files
+//                         Loop through .jpg files
                         for (File jpgFile : Objects.requireNonNull(subFolder.listFiles((dir, name) -> name.toLowerCase().endsWith(".jpg")))) {
-                            photoPaths.add(jpgFile.getAbsolutePath());
+                            String photoPath= jpgFile.getAbsolutePath().replace("\\", "\\\\");
+                        	photoPaths.add(photoPath);
                         }
+//                         Add to the map
+                        celebrityMap.put(celebrityName, photoPaths);
+//                         Add the map to the list
+//                         Write the map to celebrities_data.json
+                        listOfMaps.add(celebrityMap);
                     }
                 }
-                // Add to the map
-                celebrityMap.put(celebrityName, photoPaths);
-                // Add the map to the list
-                listOfMaps.add(celebrityMap);
+
             }
         }
-        // Write the list of maps to a JSON file
-        String jsonFilePath = "D:\\celebrities_photos\\celebrities_data.json";
-        try {
-            FileWriter fileWriter = new FileWriter(jsonFilePath);
-            fileWriter.write(convertListOfMapsToJson(listOfMaps));
-            fileWriter.close();
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
+        convertListOfMapsToJson(listOfMaps);
     }
 
     private static String convertListOfMapsToJson(List<Map<String, List<String>>> listOfMaps) {
@@ -57,7 +52,7 @@ public class MakeJsonforCelebrityAndRelatedPhotos {
                     json.append("\"").append(photoPath).append("\",");
                 }
                 if (!entry.getValue().isEmpty()) {
-                    json.deleteCharAt(json.length() - 1); // Remove the trailing comma
+                    json.deleteCharAt(json.length() - 1);  // Remove the trailing comma
                 }
                 json.append("]},");
             }

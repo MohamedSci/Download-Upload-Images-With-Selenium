@@ -3,11 +3,12 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="download_upload_images.ImageUploader2222222">
+      <class name="mostajaab_scrapping.MostajaabMainScrapperTest">
         <methods>
-          <include name="ImageUploaderTest"/>
+          <include name="MostajaabMainScrapperTest"/>
+          <include name="setupDriver"/>
         </methods>
-      </class> <!-- download_upload_images.ImageUploader2222222 -->
+      </class> <!-- mostajaab_scrapping.MostajaabMainScrapperTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Regression Suite"  parallel="classes" thread-count="7">
+	<parameter name="browser" value="chrome" />
+	<test name="Scarpper">
+		<classes>
+			<class name="src/main/java/retrieve_all_videos_under_a_youtube_playlist" />
+			<class name="src/main/java/BasedClass" />							
+		</classes>
+	</test>
+</suite> 

@@ -8,7 +8,7 @@ import java.util.Base64;
 
 import org.testng.annotations.Test;
 
-public class Base64ImageConverter {
+public class Base64toJpgImageConverter {
 	@Test
     public void Base64ImageConverterTest() {
         // Specify the path to the parent folder
@@ -17,7 +17,7 @@ public class Base64ImageConverter {
         try {
             Files.walk(Paths.get(parentFolderPath))
                     .filter(Files::isRegularFile)
-                    .forEach(Base64ImageConverter::convertBase64ToImage);
+                    .forEach(Base64toJpgImageConverter::convertBase64ToImage);
         } catch (IOException e) {
             e.printStackTrace();
         }

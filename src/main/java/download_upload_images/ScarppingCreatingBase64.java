@@ -22,8 +22,7 @@ import org.testng.annotations.Test;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
-public class Base64ImagesCreator {
-
+public class ScarppingCreatingBase64 {
 	WebDriver driver;
 	WebDriverWait wait;
 	public static String downloadPath = System.getProperty("user.dir") + "\\Downloads";
