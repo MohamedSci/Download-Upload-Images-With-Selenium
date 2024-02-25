@@ -27,6 +27,7 @@ public class MergeJSONFiles {
 						JsonNode rootNode = mapper.readTree(file);
 						// Extract map resources from JSON object
 						String fileNameWithoutExtension = file.getName().replaceFirst("[.][^.]+$", "");
+						AppendTextToFile.AppendTextToFileFun(fileNameWithoutExtension);;
 						JsonNode mapResources = rootNode.get(fileNameWithoutExtension);
 						System.out.println("---mapResources: " + mapResources);
 						if (mapResources != null && mapResources.isArray()) {
