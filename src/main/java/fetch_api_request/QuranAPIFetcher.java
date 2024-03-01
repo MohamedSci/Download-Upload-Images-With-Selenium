@@ -15,7 +15,7 @@ public class QuranAPIFetcher {
 			Scanner scanner = new Scanner(csvFile);
 
 			// Create or append to the output text file
-			FileWriter fileWriter = new FileWriter("doaa_ayahs_quran_texts.txt", true);
+			FileWriter fileWriter = new FileWriter("doaa_ayahs_quran_texts_dataset.txt", true);
 			PrintWriter printWriter = new PrintWriter(fileWriter);
 			int index = 1;
 			// Iterate through each line in the CSV file
@@ -47,17 +47,18 @@ public class QuranAPIFetcher {
 				// Write the text to the output file
 				printWriter.println(outPutText);
 				index++;
-				// Close the connection
-				connection.disconnect();
-			}
 
-			// Close the scanner and print writer
-			scanner.close();
-			printWriter.close();
+                // Close the connection
+                connection.disconnect();
+            }
 
-			System.out.println("Data fetched successfully and written to output.txt");
-		} catch (IOException e) {
-			e.printStackTrace();
-		}
-	}
+            // Close the scanner and print writer
+            scanner.close();
+            printWriter.close();
+
+            System.out.println("Data fetched successfully and written to output.txt");
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
 }
