@@ -1,0 +1,1009 @@
+sympol,ar,en,es,it,ur,fr,de,tr,ru,fa
+azan,أزان,Azan,Salir,Esci,باہر جانا,Sortir,Hinausgehen,Dışarı çıkmak,Выходить,برو بیرون
+quran,القرآن,Quran,El Corán,Il Corano,قرآن,Le Coran,Der Koran,Kuran,Коран,قرآن
+azkar,أزكار,Azkar,Faro,Faro,بیکن,Balise,Leuchtfeuer,İşaret,Маяк,چراغ
+culture,ثقافة,Culture,cultura,cultura,ثقافت,culture,Kultur,kültür,культура,فرهنگ
+salah,صلاح,Salah,Salah,Salah,صلاح,Salah,Salah,Salah,Салах,صلاح
+mon,الاثنين,Mon,Lunes,Lunedi,پیر,Lundi,Montag,Pazartesi,Понедельник,دوشنبه
+tue,الثلاثاء,Tue,Martes,Martedì,منگل,Mardi,Dienstag,Salı,Вторник,سهشنبه
+wed,الأربعاء,Wed,Miércoles,Mercoledì,بدھ,Mercredi,Mittwoch,Çarşamba,Среда,چهار شنبه
+thu,الخميس,Thu,Jueves,Giovedì,جمعرات,Jeudi,Donnerstag,Perşembe,Четверг,پنج شنبه
+fri,الجمعة,Fri,Viernes,Venerdì,جمعہ,Vendredi,Freitag,Cuma,Пятница,جمعه
+sat,السبت,Sat,Sábado,Sabato,ہفتہ,Samedi,Samstag,Cumartesi,Суббота,شنبه
+sun,الأحد,Sun,Domingo,Domenica,اتوار,Dimanche,Sonntag,Pazar,Воскресенье,یکشنبه
+mon,الاثنين,Mon,Lunes,Lunedi,پیر,Lundi,Montag,Pazartesi,Понедельник,دوشنبه
+fajr,الفجر,Fajr,Alba,All'alba,دن کا وقفہ,Aube,Tagesanbruch,Gündüzü,Рассвет,طلوع شبانه روز
+sunrise,شروق الشمس,Sunrise,el amanecer,alba,طلوع آفتاب,Lever du soleil,Sonnenaufgang,güneşin doğuşu,восход,طلوع خورشید
+dhuhr,الظهر,Dhuhr,mediodía,mezzogiorno,دوپہر,midi,Mittag,öğlen,полдень,ظهر
+asr,العصر,Asr,edad,età,عمر,âge,Alter,yaş,возраст,سن
+sunset,الغروب,Sunset,Atardecer,Tramonto,غروب آفتاب,Coucher de soleil,Sonnenuntergang,Gün batımı,Закат,غروب
+maghrib,المغرب,Maghrib,Marruecos,Marocco,مراکش,Maroc,Marokko,Fas,Марокко,مراکشی
+isha,العشاء,Isha,cena,cena,رات کا کھانا,dîner,Abendessen,akşam yemeği,ужин,شام
+imsak,إيمساك,Imsak,Embebido,Embsak,ایمبساک,Empièce,EMBSAK,Emssak,Эмбак,باقمستان
+midnight,منتصف الليل,Midnight,medianoche,mezzanotte,آدھی رات,Minuit,Mitter Nacht,gece yarısı,полночь,نیمه شب
+firstthird,الثلث الأول,Firstthird,El primer tercio,Il primo terzo,پہلا تیسرا,Le premier tiers,Das erste Drittel,Birinci Üçüncü,Первая треть,سوم اول
+lastthird,التثلث الاأخير,Lastthird,La última contaminación,L'ultimo inquinamento,آخری آلودگی,La dernière pollution,Die letzte Verschmutzung,Son Kirlilik,Последнее загрязнение,آخرین آلودگی
+location_status,حالة الموقع,Location Status,Estado del sitio,Stato del sito,سائٹ کی حیثیت,Statut du site,Standortstatus,Site Durumu,Статус сайта,وضعیت سایت
+given,معطى,Given,Dado,Dato,دیئے گئے,Donné,Gegeben,Verilen,Данный,داده شده
+permission_permanently_denied,الاذن تم رفضه بشكل كامل,Permission permanently denied,La oreja fue completamente rechazada,L'orecchio è stato completamente respinto,کان کو مکمل طور پر مسترد کردیا گیا تھا,L'oreille a été complètement rejetée,Das Ohr wurde vollständig abgelehnt,Kulak tamamen reddedildi,Ухо было полностью отвергнуто,گوش کاملاً رد شد
+qiblah_compass_error:,خطأ فى بوصلة القبلة,Qiblah Compass Error:,Un error en la brújula Qiblah,Un errore nella bussola Qiblah,قریبا کمپاس میں ایک غلطی,Une erreur dans la boussole Qiblah,Ein Fehler im Qiblah -Kompass,Qiblah pusulasında bir hata,Ошибка в компас Qiblah,یک اشتباه در قطب نما qiblah
+check_location_permission,تحقق من إذن الموقع,Check Location Permission,Verifique el permiso del sitio,Controlla l'autorizzazione del sito,سائٹ کی اجازت چیک کریں,Vérifiez l'autorisation du site,Überprüfen Sie die Erlaubnis zur Website,Site iznini kontrol edin,Проверьте разрешение сайта,اجازه سایت را بررسی کنید
+qiblah_direction,اتجاه القبلة,Qiblah Direction,Qiblah,Qiblah,قیبلا,Qiblah,Qiblah,Qiblah,Qiblah,قیب
+please_enable_location_service,يرجى تمكين خدمة الموقع,Please enable Location service,Habilita el servicio del sitio,Si prega di abilitare il servizio del sito,براہ کرم سائٹ سروس کو فعال کریں,Veuillez activer le service du site,Bitte aktivieren Sie den Site -Service,Lütfen site hizmetini etkinleştirin,"Пожалуйста, включите службу сайта",لطفا سرویس سایت را فعال کنید
+location_service_denied_forever !,تم رفض خدمة الموقع إلى الأبد!,Location service Denied Forever !,¡El servicio del sitio ha sido rechazado para siempre!,Il servizio del sito è stato rifiutato per sempre!,سائٹ سروس کو ہمیشہ کے لئے مسترد کردیا گیا ہے!,Le service du site a été rejeté pour toujours!,Der Site -Service wurde für immer abgelehnt!,Site hizmeti sonsuza dek reddedildi!,Служба сайта была отвергнута навсегда!,سرویس سایت برای همیشه رد شده است!
+location_service_permission_denied,تم رفض إذن خدمة الموقع,Location service permission denied,El permiso del servicio del sitio ha sido rechazado,L'autorizzazione al servizio del sito è stata respinta,سائٹ سروس کی اجازت کو مسترد کردیا گیا ہے,L'autorisation du service du site a été rejetée,Die Erlaubnis zur Site -Service wurde abgelehnt,Site hizmet izni reddedildi,Разрешение на обслуживание сайта было отклонено,مجوز خدمات سایت رد شده است
+let's_read_quran,دعوا يقرأ القرآن,Let;s read Quran,Leemos el Corán,Leggiamo il Corano,آئیے قرآن کو پڑھیں,Lisons le Coran,Lassen Sie uns den Koran lesen,Kur'an'ı okuyalım,Давайте прочитаем Коран,بیایید قرآن را بخوانیم
+tajweed,التجويد,Tajweed,Entonación,Intonazione,intonation,Intonation,Intonation,Tonlama,Интонация,دفع
+surah_name,اسم السورة,Surah Name,El nombre de la sura,Il nome della Sura,سورہ کا نام,Le nom de la sourate,Der Name der Surah,Suranın adı,Имя Суры,نام سوره
+Al-Fatiha,الفَاتِحَة,Al-Fatiha,Al -fateh,Al -Fateh,الفاتیہ,Al -fateh,Al -Fateh,Al -Fateh,Al -fateh,البث
+Al-Baqarah,البَقَرَة,Al-Baqarah,La vaca,La mucca,گائے,La vache,Die Kuh,İnek,Корова,گاو
+Al-Imran,آل عِمرَان,Al-Imran,Familia Amran,Famiglia Amran,امران فیملی,Famille Amran,Amran -Familie,Amran ailesi,Семья Амрана,خانواده امران
+An-Nisa',النِّسَاء,An-Nisa',Mujer,Donne,خواتین,Femmes,Frauen,Kadınlar,Женщины,زنان
+Al-Ma'idah,المَائدة,Al-Ma'idah,La mesa,La tavola,میز,La table,Der Tisch,Masa,Стол,میز
+Al-An'am,الأنعَام,Al-An'am,ganado,bestiame,مویشی,bétail,Vieh,Hayvanlar,крупный рогатый скот,گاو
+Al-A'raf,الأعرَاف,Al-A'raf,Arifs,Arifs,ARIFS,Arifs,Arifs,Arifler,Арифс,قصور
+Al-Anfal,الأنفَال,Al-Anfal,La nariz,Il naso,ناک,Le nez,Die Nase,Burun,Нос,بینی
+At-Tawbah,التوبَة,At-Tawbah,Arrepentimiento,Pentimento,توبہ,Repentir,Buße,Tövbe,Покаяние,توبه
+Yunus,يُونس,Yunus,Jóvenes,Younes,یونس,Jeune,Younes,Younes,ЮНС,یونس
+Hud,هُود,Hud,Capucha,Cappuccio,ہڈ,Capot,Haube,Kapüşon,Капюшон,کاپوت ماشین
+Yusuf,يُوسُف,Yusuf,Yusef,Yusef,یوسف,Yusef,Yusef,Yusef,Юсеф,یوزف
+Ar-Ra'd,الرَّعْد,Ar-Ra'd,Redada,Raid,چھاپے,Raid,Überfall,Yağma,Рейд,یورش
+Ibrahim,إبراهِيم,Ibrahim,Ibrahim,Ibrahim,ابراہیم,Ibrahim,Ibrahim,İbrahim,Ибрагим,ابراهیم
+Al-Hijr,الحِجْر,Al-Hijr,La piedra,La pietra,پتھر,La pierre,Der Stein,Taş,Камень,سنگ
+An-Nahl,النَّحْل,An-Nahl,El apicultor,L'apicoltore,مکھیوں کیپر,L'apiculteur,Der Imker,Arıcı,Пчеловод,زنبوردار
+Al-Isra',الإسْرَاء,Al-Isra',Las familias,Le famiglie,کنبے,Les familles,Die Familien,Aileler,Семьи,خانواده ها
+Al-Kahf,الكهْف,Al-Kahf,la cueva,la grotta,غار,la cave,die Höhle,mağara,пещера,غار
+Maryam,مَريَم,Maryam,Mariam,Mariam,مریم,Mariam,Mariam,Mariam,Мариам,مریم
+Ta-Ha,طه,Ta-Ha,Taha,Taha,طاہا,Taha,Taha,Taha,Таха,تاها
+Al-Anbiya',الأنبيَاء,Al-Anbiya',Los profetas,I profeti,نبی,Les prophètes,Die Propheten,Peygamberler,Пророки,انبیاء
+Al-Hajj,الحَج,Al-Hajj,Peregrinaje,Pellegrinaggio,حج,Pèlerinage,Pilgerfahrt,Hac,Паломничество,زیارت
+Al-Mu'minun,المُؤمنون,Al-Mu'minun,Los creyentes,I credenti,مومنین,Les croyants,Die Gläubigen,İnananlar,Верующие,مؤمنان
+An-Nur,النُّور,An-Nur,la luz,la luce,روشنی,la lumière,das Licht,ışık,свет,روشنایی
+Al-Furqan,الفُرْقان,Al-Furqan,Frutas,Frutta,پھل,Des fruits,Früchte,Meyveler,Фрукты,میوه
+Ash-Shu'ara',الشُّعَرَاء,Ash-Shu'ara',Poesía,Poesia,شاعری,Poésie,Poesie,Şiir,Поэзия,شعر
+An-Naml,النَّمْل,An-Naml,Placer,Piacere,خوشی,Plaisir,Vergnügen,Zevk,Удовольствие,لذت
+Al-Qasas,القَصَص,Al-Qasas,Cuentos,Storie,کہانیاں,Histoires,Geschichten,Hikayeler,Истории,داستان
+Al-Ankabut,العَنكبوت,Al-Ankabut,La araña,Il ragno,مکڑا,L'araignée,Die Spinne,Örümcek,Паук,عنکبوت
+Ar-Rum,الرُّوم,Ar-Rum,Romanos,romani,رومیوں,Romains,Römer,Romalılar,Римляне,رومیان
+Luqman,لقمَان,Luqman,Laman,Laman,لامان,Laman,Laman,Laman,Ламан,لومان
+As-Sajda,السَّجدَة,As-Sajda,Soltero,Separare,سنگل,Célibataire,Einzel,Bekar,Одинокий,تنها
+Al-Ahzab,الأحزَاب,Al-Ahzab,Fiestas,Feste,پارٹیوں,Des soirées,Partys,Partiler,Стороны,مهمانی
+Saba',سَبَأ,Saba',Publicación,Pubblicazione,اشاعت,Publication,Veröffentlichung,Yayın,Публикация,انتشار
+Fatir,فَاطِر,Fatir,creador,Creatore,خالق,créateur,Schöpfer,yaratıcı,Создатель,ایجاد کننده
+Ya-Sin,يس,Ya-Sin,Yasin,Yasin,یاسین,Yasin,Yasin,Yasin,Ясин,یاسین
+As-Saffat,الصَّافات,As-Saffat,Safat,Safat,صفات,Sauvegarder,Safat,Safat,Сафат,سافات
+Sad,ص,Sad,s,S,s,s,S,S,с,حرف
+Az-Zumar,الزُّمَر,Az-Zumar,Zamar,Zamar,زمر,Zamar,Zamar,Zamar,Замар,زامار
+Ghafir,غَافِر,Ghafir,indulgente,perdonare,معاف کرنے والا,indulgent,versöhnlich,affedici,прощающий,بخشنده
+Fussilat,فُصِّلَتْ,Fussilat,Estaba separado,Era separato,اسے الگ کردیا گیا تھا,Il a été séparé,Es wurde getrennt,Ayrıldı,Это было разделено,از هم جدا شد
+Ash-Shura,الشُّورَى,Ash-Shura,Shura,Shura,شورا,Shura,Shura,Şura,Шура,گور
+Az-Zukhruf,الزُّخْرُف,Az-Zukhruf,Decreto,Decreto,فرمان,Décret,Dekret,Kararname,Указатель,حکم
+Ad-Dukhan,الدُّخان,Ad-Dukhan,Fumar,Fumo,دھواں,Fumée,Rauch,Sigara içmek,Дымка,دود
+Al-Jathiyah,الجاثِية,Al-Jathiyah,Cathy,Cathy,کیتھی,Cathy,Cathy,diz üstü çöken,Кэти,کتی
+Al-Ahqaf,الأحقاف,Al-Ahqaf,Ritual,Rituale,رسم,Rituel,Ritual,Ritüel,Ритуал,تشریفات
+Muhammad,مُحَمّد,Muhammad,Mohamed,Mohammed,محمد,Mohammed,Mohammed,Muhammet,Мухаммед,محمد
+Al-Fath,الفَتْح,Al-Fath,La conquista,La conquista,فتح,La conquête,Die Eroberung,Fetih,Завоевание,فتح
+Al-Hujurat,الحُجُرات,Al-Hujurat,Las piedras,Le pietre,پتھر,Les pierres,Die Steine,Taşlar,Камни,سنگها
+Qaf,ق,Qaf,S,S,s,S,S,S,С,حرف
+Adh-Dhariyat,الذَّاريَات,Adh-Dhariyat,Lata,Duraat,دورات,Duraat,Duraat,Esir,Duraat,دورا
+At-Tur,الطُّور,At-Tur,La fase,La fase,مرحلہ,La phase,Die Phase,Evre,Фаза,فاز
+An-Najm,النَّجْم,An-Najm,La estrella,La stella,ستارہ,L'étoile,Der Stern,Yıldız,Звезда,ستاره
+Al-Qamar,القَمَر,Al-Qamar,la luna,la luna,چاند,la lune,der Mond,ay,Луна,ماه
+Ar-Rahman,الرَّحمن,Ar-Rahman,misericordioso,misericordioso,مہربان,miséricordieux,barmherzig,merhametli,милосердный,رحیم - مهربان
+Al-Waqi'ah,الواقِعَة,Al-Waqi'ah,La ocurrencia,Il verificarsi,واقعہ,L'occurrence,Das Ereignis,Olay,Появление,رخداد
+Al-Hadid,الحَديد,Al-Hadid,Hierro,Ferro,آئرن,Fer,Eisen,Ütü,Железо,اهن
+Al-Mujadila,المُجادَلة,Al-Mujadila,El argumento,L'argomento,دلیل,L'argument,Das Argument,Argüman,Аргумент,بحث و جدل
+Al-Hashr,الحَشْر,Al-Hashr,Honorable,Onorevole,معزز,Honorable,Ehrenvoll,Onurlu,Почетный,محتمل
+Al-Mumtahina,المُمتَحَنة,Al-Mumtahina,Claro,Chiaro,صاف,Clair,Klar,Temizlemek,Прозрачный,پاک کردن
+As-Saff,الصَّف,As-Saff,la línea,la linea,لکیر,la ligne,die Linie,sınıf,линия,خط
+Al-Jumu'ah,الجُّمُعة,Al-Jumu'ah,Viernes,Venerdì,جمعہ,Vendredi,Freitag,Cuma,Пятница,جمعه
+Al-Munafiqun,المُنافِقُون,Al-Munafiqun,Excelente,Eccellenti,ایکینٹ,Excellente,Exzellente,Mükemmeller,Превосходные,تعالی
+At-Taghabun,التَّغابُن,At-Taghabun,Tagamón,Tagamon,Tagamon,Tagamon,Tagamon,Tagamon,Тагамон,تگامون
+At-Talaq,الطَّلاق,At-Talaq,El divorcio,Il divorzio,طلاق,Le divorce,Die Scheidung,Boşanma,Развод,طلاق
+At-Tahrim,التَّحْريم,At-Tahrim,La prohibición,Il divieto,ممانعت,L'interdiction,Das Verbot,Yasak,Запрет,ممنوعیت
+Al-Mulk,المُلْك,Al-Mulk,el rey,il re,بادشاہ,le roi,der König,Kral,король,پادشاه
+Al-Qalam,القَلـََم,Al-Qalam,El corazón,Il cuore,دل,Le cœur,Das Herz,Kalp,Сердце,قلب
+Al-Haqqah,الحَاقّـَة,Al-Haqqah,La crueldad,La crudeltà,ظلم,La cruauté,Die Grausamkeit,Zulüm,Жестокость,ظلم
+Al-Ma'arij,المَعارِج,Al-Ma'arij,Conocimiento,Conoscenza,علم,Connaissance,Wissen,Bilgi,Знание,دانش
+Nuh,نُوح,Nuh,Noé,Noè,نوح,Noé,Noah,Nuh,Ной,نوح
+Al-Jinn,الجِنّ,Al-Jinn,Jin,Jin,جن,diable,Jin,Jin,Джин,جین
+Al-Muzzammil,المُزَّمّـِل,Al-Muzzammil,El asociado,Il associato,وابستہ,L'associé,Der zugehörige,Ilişkili,Связанный,مرتبط
+Al-Muddathir,المُدَّثــِّر,Al-Muddathir,La actualización,L'aggiornamento,تازہ کاری,La mise à jour,Das Update,Güncelleme,Обновление,به روز رسانی
+Al-Qiyamah,القِيامَة,Al-Qiyamah,Resurrección,Risurrezione,قیامت,Résurrection,Auferstehung,Diriliş,Воскрешение,رستاخیز
+Al-Insan,الإنسان,Al-Insan,Humano,Umano,انسانی,Humain,Menschlich,İnsan,Человек,انسان
+Al-Mursalat,المُرسَلات,Al-Mursalat,Envío,Invia,بھیجتا ہے,Envoi,Sendet,Gönderir,Отправляет,ارسال کردن
+An-Naba',النـَّبأ,An-Naba',Bien,BENE,ٹھیک ہے,Bien,Also,Kuyu,Хорошо,خوب
+An-Nazi'at,النـّازِعات,An-Nazi'at,Persona,Persone,افراد,Personnes,Personen,Kişiler,Люди,افراد
+Abasa,عَبَس,Abasa,Elegir,Scegliere,چنیں,Prendre,Wählen,Seçmek,Выбирать,انتخاب
+At-Takwir,التـَّكْوير,At-Takwir,El mandato,Il mandato,مینڈیٹ,Le mandat,Das Mandat,Görev,Мандат,حکم
+Al-Infitar,الإنفِطار,Al-Infitar,Desayuno,Colazione,ناشتہ,Petit-déjeuner,Frühstück,Kahvaltı,Завтрак,صبحانه
+Al-Mutaffifin,المُطـَفِّفين,Al-Mutaffifin,Los conductores,I guidatori,ڈرائیور,Les conducteurs,Die Fahrer,Sürücüler,Водители,رانندگان
+Al-Inshiqaq,الإنشِقاق,Al-Inshiqaq,Pulgismo,Inchismo,انچزم,Inchisme,Inchismus,İnçlik,Инчизм,اینت
+Al-Buruj,البُروج,Al-Buruj,La promoción,La promozione,پروموشن,La promotion,Beförderung,Promosyon,Продвижение,ارتقاء
+At-Tariq,الطّارق,At-Tariq,Tariq,Tariq,طارق,Tariq,Tariq,TARIQ,Тарик,طارق
+Al-A'la,الأعلی,Al-A'la,El más alto,Il più alto,بلند ترین,Le plus haut,Das höchste,En yüksek,Самый высокий,بالاترین
+Al-Ghashiyah,الغاشِيَة,Al-Ghashiyah,Al -Ghisha,Al -ghisha,الغیشا,Al -Ghisha,Al -Ghisha,Al -Ghisha,Ал -гиша,الحیشا
+Al-Fajr,الفَجْر,Al-Fajr,Alba,All'alba,دن کا وقفہ,Aube,Tagesanbruch,Gündüzü,Рассвет,طلوع شبانه روز
+Al-Balad,البَـلـَد,Al-Balad,El país,Paese,ملک,Le pays,Das Land,Ülke,Страна,کشور
+Ash-Shams,الشــَّمْس,Ash-Shams,Al -Shameh,Al -Shameh,al -shameh,Al -Shameh,Al -Shameh,Al -Shameh,Al -shameh,الشام
+Al-Layl,اللـَّيل,Al-Layl,La degeneración,La degenerazione,انحطاط,La dégénérescence,Die Degeneration,Dejenerasyon,Дегенерация,انحطاط
+Ad-Duha,الضُّحی,Ad-Duha,El sacrificio,Il sacrificio,قربانی,Le sacrifice,Das Opfer,Fedakarlık,Жертвоприношение,فداکاری
+Ash-Sharh,الشَّرْح,Ash-Sharh,la explicación,la spiegazione,وضاحت,l'explication,die Erklärung,açıklama,объяснение,توضیحات
+At-Tin,التـِّين,At-Tin,El color,Il colore,رنگ,La couleur,Die Farbe,Renk,Цвет,رنگ
+Al-'Alaq,العَلـَق,Al-'Alaq,Al -Alaq,Al -alaq,al -alaq,Al -Alaq,Al -Alaq,Al -Alaq,Al -alaq,آلک
+Al-Qadr,القـَدر,Al-Qadr,Qadir,Qadir,قادر,Qadir,Qadir,Dörtlü,Кадир,قدیر
+Al-Bayyinah,البَيِّنَة,Al-Bayyinah,La evidencia,La prova,شواھد,La preuve,Der Beweis,Kanıt,Доказательство,شواهد
+Az-Zalzalah,الزلزَلة,Az-Zalzalah,Zalabah,Zalabah,زالبہ,Zalabah,Zalabah,Zalabah,Залаба,Zalabah
+Al-'Adiyat,العَادِيات,Al-'Adiyat,Las ordenes,Gli ordini,احکامات,Les ordres,Die Aufträge,Emirler,Приказы,سفارشات
+Al-Qari'ah,القارِعَة,Al-Qari'ah,Qarbah,Qarbah,قرباہ,Qarbah,Qarbah,Qarbah,Карба,قارب
+At-Takathur,التَكاثـُر,At-Takathur,Takhtra,Takhtra,تختترا,Takhtra,Takhtra,Takhtra,Тахтра,تاکترا
+Al-'Asr,العَصْر,Al-'Asr,edad,età,عمر,âge,Alter,yaş,возраст,سن
+Al-Humazah,الهُمَزَة,Al-Humazah,Humanización,Umanizzazione,انسانیت,Humanisation,Humanisierung,İnsanlaştırma,Гуманизация,انسان سازی
+Al-Fil,الفِيل,Al-Fil,el elefante,l'elefante,ہاتھی,l'éléphant,der Elefant,fil,слон,فیل
+Quraysh,قـُرَيْش,Quraysh,Qaryh,Qaryh,قریہ,Qaryh,Qaryh,Çiğneme,Кари,قارچ
+Al-Ma'un,المَاعُون,Al-Ma'un,El único,L'unico,ایک,Celui,Der Eine,Tek,Тот самый,یکی از
+Al-Kawthar,الكَوْثَر,Al-Kawthar,Abrigo,Cappotto,کوٹ,Manteau,Mantel,Kaban,Пальто,روکش
+Al-Kafirun,الكَافِرُون,Al-Kafirun,Los infieles,Gli infedeli,کافر,Les infidèles,Die Ungläubigen,Infidels,Неверные,کافران
+An-Nasr,النـَّصر,An-Nasr,Animar,Liven,زندہ,Animer,Beleben,Canlandırmak,Оживить,زندگی
+Al-Masad,المَسَد,Al-Masad,El Assad,L'Assad,اسد,L'Assad,Der Assad,Esad,Асад,اسد
+Al-Ikhlas,الإخْلَاص,Al-Ikhlas,devoción,devozione,عقیدت,dévouement,Hingabe,özveri,преданность,تعلق خاطر
+Al-Falaq,الفَلَق,Al-Falaq,Abrazadera,MORSETTO,کلیمپ,Serrer,Klemme,Kelepçe,Зажим,گیره
+An-Nas,النَّاس,An-Nas,la gente,la gente,لوگ,les gens,die Menschen,insanlar,люди,مردم
+roqia_cheria,الرقية الشرعية,Roqia Charaia,Roquia,Roquia,روکیا,Roquia,Roquia,Roquia,Рокия,رکیا
+Saad Al-Ghamdi,سعد الغامدي,Saad Al-Ghamdi,Saad al-Ghamdi,Saad al-Ghamdi,سعد الغمدی,Saad al-Ghamdi,Saad al-Ghamdi,Saad al-gamdi,Саад аль-Гэмди,سعد الغامدی
+Abdulrahman Alsudaes,عبد الرحمن السديس,Abdulrahman Alsudaes,Abdullrahman alsudais,Abdullrahman Alsudais,عبد اللہ مین السودیس,Abdullrahman alsudais,Abdullrahman Alsudais,Abdullrahman Alsudais,Абдуллархман Алсуде,عبدالرهمن آلسودائیس
+Abdulbasit Abdulsamad - Almusshaf Al Mojawwad,عبدالباسط عبد الصمد,Abdulbasit Abdulsamad,Abdul Basit Abdul Samad,Abdul Basit Abdul Samad,عبد الاسط عبد الصرد,Abdul Basit Abdul Samad,Abdul Basit Abdul Samad,Abdul Basit Abdul Samad,Абдул Базит Абдул Самад,عبدالسیت عبدالمد سامد
+Shaik Abu Bakr Al Shatri,شيخ أبوبكر الشاطرى,Shaik Abu Bakr Al Shatri,Jeque abu bakr al -shatri,Sheikh Abu Bakr Al -shatri,شیخ ابو بکر الشتری,Cheikh abu bakr al -shatri,Sheikh Abu Bakr al -Shatri,Şeyh Abu Bakr al -shatri,Шейх Абу Бакр Аль -Шатри,شیخ ابوبکر الشاتری
+Saud Al-Shuraim,سعود الشريم,Saud Al-Shuraim,Saud al -shuraim,Saud al -Shuraim,سعود الشوریم,Saud al -shuraim,Saud al -Shuraim,Saud Al -Shaim,Сауд Аль -Шурайм,سعود ال -شرایم
+Nasser Alqatami,ناصر القطامى,Nasser Alqatami,Naser al Katamy,Naser Al Katamy,نصر ال کتامی,Naser Al Katamy,Naser Al Katamy,Naser Al Katamy,Naser Al Katamy,نصر ال کاتامی
+Mohammed Ayyub,محمد أيوب,Mohammed Ayyub,Mohamed Ayoub,Mohamed Ayoub,محمد ایوب,Mohamed Ayoub,Mohamed Ayoub,Mohamed Ayoub,Мохамед Аюб,محمد ایوب
+Mohammed Siddiq Al-Minshawi,محمد صديق المنشاوى,Mohammed Siddiq Al-Minshawi,Muhammad Siddiq al -minshawi,Muhammad Siddiq al -minshawi,محمد صدیق الانشاوی,Muhammad Siddiq al -minshawi,Muhammad Siddiq al -Minshawi,Muhammed Siddiq al -Minshawi,Мухаммед Сиддик Аль -Миншави,محمد سدیق المینشوی
+Mohammed Jibreel,محمد جبريل,Mohammed Jibreel,Muhammad Jibril,Muhammad Jibril,محمد جبرل,Muhammad Jibril,Muhammad Jibril,Muhammed Jibril,Мухаммед Джибриль,محمد جبریل
+Mohammad Al-Tablaway,محمد الطبلاوى,Mohammad Al-Tablaway,Muhammad al -tlaBawy,Muhammad al -tablawy,محمد التبلوی,Muhammad al -Tablawy,Muhammad al -tablawy,Muhammed al -tablawy,Мухаммед Аль -Таблави,محمد التاباوی
+Mishary Alafasi,مشارى العفاسى,Mishary Alafasi,Mishari al-Afasi,Mishari al-afasi,مشاری الفاسی,Mishari al-Afasi,Mishari al-Afasi,Mishari al-Afasi,Мишари аль-Афаси,میشاری الفازی
+Maher Al Meaqli,ماهر الميقلي,Maher Al Meaqli,Maher Al -Mikali,Maher al -mikali,مہر المکالی,Maher al -mikali,Maher al -Mikali,Maher Al -Mikali,Махер Аль -Микали,ماهر المیکالی
+Ahmad Al-Ajmy,أحمد العجمي,Ahmad Al-Ajmy,Ahmed al-Agamy,Ahmed al-agamy,احمد الغامی,Ahmed al-Agamy,Ahmed al-Agamy,Ahmed Al-Agamy,Ахмед аль-Агамия,احمد الگامی
+fateha_roqia,رقية سورة الفاتحة,Fateha Roqia,Ruqaya Surat al -fatihah,Ruqaya Surat al -fatihah,روکایا سورت الفتیہہ,Ruqaya Surat al -fatihah,Ruqaya Surat al -fatihah,Ruqaya Surat al -fatihah,Рукая Сурат Аль -Фатихах,Ruqaya Surat al -fatihah
+nasser_qatami_roqia,رقية بصوت ناصر القطامى,Nasser Qatami Roqia,Ruqaya con la voz de Nasser al -qatami,Ruqaya con la voce di Nasser al -qatami,ناصر القاتامی کی آواز کے ساتھ روکایا,Ruqaya avec la voix de Nasser al -qatami,Ruqaya mit der Stimme von Nasser al -Qatami,Nasser al -qatami'nin sesi ile ruqaya,Ruqaya с голосом Насера ​​аль -Катами,Ruqaya با صدای ناصر القاتامی
+fares_abad_roqia,رقية بصوت فارس عباد,Fares Abad Roqia,Ruqaya con la voz de Faris Abbad,Ruqaya con la voce di Faris Abbad,فریس عبد کی آواز کے ساتھ روکایا,Ruqaya avec la voix de Faris Abbad,Ruqaya mit der Stimme von Faris Abbad,Faris Abbad'ın sesi ile Ruqaya,Рукия с голосом Фарис Аббад,Ruqaya با صدای Faris Abbad
+maher_maqely_roqia,رقية بصوت ماهر المعقيلى,Maher Maqely Roqia,Ruqaya con la voz de Maher al -Miqili,Ruqaya con la voce di Maher al -miqili,ruqaya maher al -miQili کی آواز کے ساتھ,Ruqaya avec la voix de Maher al -miqili,Ruqaya mit der Stimme von Maher al -Miqili,Maher al -miqili'nin sesi ile ruqaya,Ruqaya с голосом Махера Аль -микили,Ruqaya با صدای ماهر المقیلی
+saad_ghamdi_roqia,رقية بصوت سعد الغامدى,Saad Al Ghamadi Roqia,Ruqaya con la voz de Saad al -ghamdi,Ruqaya con la voce di Saad al -ghamdi,سعد الغمدی کی آواز کے ساتھ روکایا,Ruqaya avec la voix de Saad al -Ghamdi,Ruqaya mit der Stimme von Saad al -Ghamdi,Saad al -ghamdi'nin sesi ile ruqaya,Ruqaya с голосом Саад -аль -Гэмди,Ruqaya با صدای سعد الغامدی
+mohamed_al_ajamy_roqia,رقية بصوت احمد العجمى,Mohamed Al Ajamy Roqia,Ruqaya con la voz de Ahmed al -Ajmi,Ruqaya con la voce di Ahmed al -ajmi,احمد الجامی کی آواز کے ساتھ روکایا,Ruqaya avec la voix d'Ahmed al -ajmi,Ruqaya mit der Stimme von Ahmed al -Ajmi,Ahmed al -ajmi'nin sesi ile ruqaya,Рукая с голосом Ахмеда Аль -Аджми,Ruqaya با صدای احمد الجمی
+mishari_alafasy_roqia,رقية بصوت مشارى العفاسى,mishari_alafasy_roqia,Ruqaya con la voz de Mashri al -afasi,Ruqaya con la voce di Mashri al -Afasi,مشری الفاسی کی آواز کے ساتھ روکایا,Ruqaya avec la voix de Mashri al -afasi,Ruqaya mit der Stimme von Mashri al -Afasi,Mashri al -Afasi'nin sesi ile ruqaya,Ruqaya с голосом Машри Аль -Афаси,Ruqaya با صدای مشری آل -افاسی
+edrees_abkar_roqia,رقية بصوت ادريس أبكر,Edrees Abkar Roqia,Ruqaya con la voz de Idris antes,Ruqaya con la voce di Idris prima,اس سے قبل ادریس کی آواز کے ساتھ روکایا,Ruqaya avec la voix d'Idris plus tôt,Ruqaya mit der Stimme von Idris früher,Ruqaya daha önce Idris'in sesi ile,Рукая с голосом Идриса ранее,Ruqaya با صدای ادریس زودتر
+minshawi_roqia,رقية بصوت المنشاوى,Minshawi Roqia,Ruqaya con la voz de al -minshawi,Ruqaya con la voce di al -minshawi,الدونشاوی کی آواز کے ساتھ روکایا,Ruqaya avec la voix d'Al-Minshawi,Ruqaya mit der Stimme von al -Minshawi,Al -Minshawi'nin sesi ile Ruqaya,Ruqaya с голосом Аль -Миншави,ruqaya با صدای المینشوی
+mohamed_al_bana_roqia,رقية بصوت محمد البنا,Mohamed Al bana Roqia,Ruqaya con la voz de Muhammad al -Banna,Ruqaya con la voce di Muhammad al -banna,روکایا محمد البنا کی آواز کے ساتھ,Ruqaya avec la voix de Muhammad al -Banna,Ruqaya mit der Stimme von Muhammad al -Banna,Muhammed al -banna'nın sesi ile ruqaya,Рукая с голосом Мухаммеда Аль -Банна,Ruqaya با صدای محمد البنا
+ain_and_hasad_roqia,رقية بصوت العين والحسد,Ain and Hasad Roqia,Ruqaya con ojo y envidia,Ruqaya con un occhio e invidia,آنکھ اور حسد کے ساتھ روقیا,Ruqaya avec un œil et une envie,Ruqaya mit Auge und Neid,Göz ve kıskançlıkla Ruqaya,Рукия с глазами и завистью,ruqaya با چشم و حسادت
+repeated_korsi_character,أية الكرسى مكرر,Repeated Korsi Character,Cualquier silla se repite,Qualsiasi sedia viene ripetuta,کسی بھی کرسی کو دہرایا جاتا ہے,N'importe quelle chaise est répétée,Jeder Stuhl wird wiederholt,Herhangi bir sandalye tekrarlanır,Любой стул повторяется,هر صندلی تکرار می شود
+falaq_and_nas_roqia,رقية سورتى الفلق والناس,Falaq and Nas Roqia,Ruqaya suri al -falaf y la gente,Ruqaya Suri al -falaf e la gente,روکایا سوری الفالاف اور لوگ,Ruqaya Suri al -falaf et le peuple,Ruqaya Suri al -Falaf und die Menschen,Ruqaya Suri al -falaf ve insanlar,Ruqaya suri al -falaf и люди,Ruqaya Suri al -falaf و مردم
+mohamed_jebril_doaa_roqia,رقية بصوت محمد جبريل,Mohamed Jebril Doaa Roqia,Ruqaya con la voz de Muhammad Jibril,Ruqaya con la voce di Muhammad Jibril,محمد جبرل کی آواز کے ساتھ روکایا,Ruqaya avec la voix de Muhammad Jibril,Ruqaya mit der Stimme von Muhammad Jibril,Muhammed Jibril'in sesi ile Ruqaya,Рукая с голосом Мухаммеда Джибрила,Ruqaya با صدای محمد جبریل
+quranic_roqia,الرقية الشرعية من القران الكريم,Quranic Roqia,El ruqyah legal del Sagrado Corán,Il ruqyah legale dal sacro Corano,قرآن مجید سے قانونی روقیہ,La ruqyah légale du Saint Coran,Die legale Ruqyah aus dem Heiligen Koran,Kur'an -ı Kerimden Yasal Ruqyah,Законное рукья из Священного Корана,Ruqyah قانونی از قرآن کریم
+roqia_sunnah,الرقية الشرعية من السنة النبوية,Roqia Sunnah,La ruqyah legal de la sunnah del profeta,Il ruqyah legale dalla sunnah del profeta,نبی of کی سنت سے قانونی روقیہ,La ruqyah légale de la Sunna du Prophète,Die legale Ruqyah aus der Sunnah des Propheten,Peygamberin Sünnetinden Yasal Ruqyah,Законное рукья от сунны Пророка,Ruqyah قانونی از سنت پیامبر
+quran_doaa,أدعية من القران الكريم,Quran Doaa,Súplicas del Sagrado Corán,Supplicazione dal Sacro Corano,قرآن مجید کی طرف سے درخواستیں,Supplications du Saint Coran,Flehen aus dem Heiligen Koran,Kur'an -ı Kerimden,Просьба от Священного Корана,دعا از قرآن کریم
+salah,الصلاة,Salah,el orador,la preghiera,نماز,la prière,das Gebet,namaz,священник,نماز
+quran,القرآن,Quran,El Corán,Il Corano,قرآن,Le Coran,Der Koran,Kuran,Коран,قرآن
+azkar,أذكار,Azkar,Recordativo,Ricordando,یاد دلانے,Rappelant,Erinnert,Hatırlatan,Напоминание,یادگار
+culture,ثقافة,Culture,cultura,cultura,ثقافت,culture,Kultur,kültür,культура,فرهنگ
+asmaa_allah_husna,أسماء الله الحسنى,God Names,Nombres de dios,Nomi di Dio,خدا کے نام,Noms d'Allah,Gott Namen,Allah'ın isimleri,Божьи имена,نام خدا
+Profile,حساب تعريفي,profile,Cuenta de introducción,Conto di introduzione,تعارف اکاؤنٹ,Compte d'introduction,Einführungskonto,Giriş hesabı,ВВЕДЕНИЕ СЧЕТА,حساب مقدمه
+Settings,إعدادات,settings,Ajustes,Impostazioni,ترتیبات,Paramètres,Einstellungen,Ayarlar,Настройки,تنظیمات
+share_app,مشاركة التطبيق,Share application,Solicitud de compartir,Condividi,درخواست شیئر کریں,Partage,Antrag teilen,Paylaş başvurusu,Поделиться приложением,برنامه مشترک
+hours,ساعات,hours,horas,ore,گھنٹے,heures,Std.,saat,часы,ساعت ها
+and,و,and,Y,E,اور,Et,Und,Ve,И,وت
+minutes,دقائق,minutes,minutos,minuti,منٹ,minutes,Protokoll,dakikalar,минуты,دقایق
+to,ل,to,a,A,to,à,Zu,ile,к,به
+فضل ذكر الله,فضل ذكر الله,The preference of remembrance of God,La preferencia del recuerdo de Dios,La preferenza del ricordo di Dio,خدا کی یاد کی ترجیح,La préférence de souvenir de Dieu,Die Präferenz der Erinnerung an Gott,Tanrı'nın anma tercihi,Предпочтение воспоминания о Боге,اولویت یادآوری خدا
+أذكار النوم,أذكار النوم,Sleep remembrance,Recuerdo del sueño,Remembrance del sonno,نیند کی یاد,Souvenir de sommeil,Schlafinnerung,Uyku hatırası,Воспоминание со сном,یادآوری خواب
+أدعية عند الاستيقاظ,أدعية عند الاستيقاظ,Supplications when waking up,Súplicas al despertar,Supplicazione durante il risveglio,جب جاگتے ہو تو درخواستیں,Supplications lorsque vous vous réveillez,Bitten beim Aufwachen,Uyanırken,Мольбы при пробуждении,دعا هنگام بیدار شدن
+أذكار الصباح والمساء,أذكار الصباح والمساء,Morning and Evening Prayers,Oraciones de la mañana y de la tarde,Preghiere mattutine e serali,صبح اور شام کی دعائیں,Prières du matin et du soir,Morgen- und Abendgebete,Sabah ve Akşam Duaları,Утренние и вечерние молитвы,نماز صبح و عصر
+أذكار الخلاء,أذكار الخلاء,Delights of the emptiness,Delicias del vacío,Delizie del vuoto,خالی پن کی خوشی,Délices du vide,Freuden der Leere,Boşluğun lezzetleri,Прелести пустоты,لذت پوچی
+الوضوء,الوضوء,Ablution,Ablución,Abluzione,وضو,Ablution,Waschung,Abartı,Омовение,شستشو
+أذكار الصلاة,أذكار الصلاة,Declaration of prayer,Declaración de oración,Dichiarazione di preghiera,دعا کا اعلان,Déclaration de prière,Gebetserklärung,Dua Beyanı,Декларация молитвы,اعلام دعا
+أدعية الصائم,أدعية الصائم,Supplications of the fasting person,Súplicas de la persona en ayunas,Supplicazione della persona a digiuno,روزہ رکھنے والے شخص کی فراہمی,Supplications de la personne à jeun,Anzeichen der Fastenperson,Oruç Kişinin Denetimi,Просьба постинного человека,دعاوی فرد روزه دار
+أذكار اللباس,أذكار اللباس,Dress remembrance,Recuerdo de vestir,Abito Remembrance,لباس کی یاد,Souvenir de la robe,Kleidung Erinnerung,Anma hatırası,Платье память,یادآوری لباس
+أذكار الطعام,أذكار الطعام,Delivery of the food,Entrega de la comida,Consegna del cibo,کھانے کی فراہمی,Livraison de la nourriture,Lieferung der Lebensmittel,Yiyeceklerin Teslimatı,Доставка еды,تحویل غذا
+أذكار المنزل,أذكار المنزل,Declaration of the house,Declaración de la casa,Dichiarazione della casa,گھر کا اعلان,Déclaration de la maison,Erklärung des Hauses,Evin beyanı,Декларация дома,اعلامیه خانه
+التوبة والاستغفار,التوبة والاستغفار,Repentance and forgiveness,Arrepentimiento y perdón,Pentimento e perdono,توبہ اور معافی,Repentir et pardon,Reue und Vergebung,Tövbe ve affetme,Покаяние и прощение,توبه و بخشش
+دعاء المسجد,دعاء المسجد,The supplication of the mosque,La súplica de la mezquita,La supplica della moschea,مسجد کی التجا,La supplication de la mosquée,Das Flehen der Moschee,Caminin,Просьба мечети,دعای مسجد
+دعاء المريض,دعاء المريض,Patient supplication,Súplica de paciente,Supplica del paziente,مریض کی درخواست,Supplication des patients,Patientendaten,Hasta İncelemesi,Улишение пациента,دعاء بیمار
+دعاء الميت والجنازة,دعاء الميت والجنازة,The supplication of the dead and the funeral,La súplica de los muertos y el funeral,La supplica dei morti e del funerale,مردہ اور آخری رسومات کی درخواست,La supplication des morts et des funérailles,Die Flehung der Toten und der Beerdigung,Ölülerin ve cenaze töreninin,Просьба мертвых и похороны,دعا مردگان و مراسم تشییع جنازه
+أذكار السفر,أذكار السفر,Travel remembrance,Recuerdo de viaje,Travel Remembrance,سفر کی یاد,Souvenir des voyages,Reiseerinnerung,Seyahat anısı,Путешествие память,یادآوری سفر
+أذكار المطر,أذكار المطر,Rain dhikr,Lluvia dhikr,Rain dhikr,بارش دھکر,Pluie Dhikr,Regen Dhikr,Yağmur Dhikr,Дождь Дхикр,باران Dhikr
+أدعية أخرى,أدعية أخرى,Other supplications,Otras súplicas,Altre suppliche,دیگر درخواستیں,Autres supplications,Andere Bitten,Diğer İncelemeler,Другие молитвы,سایر دعاوی
+فضل ذكر الله,فضل ذكر الله,The preference of remembrance of God,La preferencia del recuerdo de Dios,La preferenza del ricordo di Dio,خدا کی یاد کی ترجیح,La préférence de souvenir de Dieu,Die Präferenz der Erinnerung an Gott,Tanrı'nın anma tercihi,Предпочтение воспоминания о Боге,اولویت یادآوری خدا
+أذكار النوم,أذكار النوم,Sleep remembrance,Recuerdo del sueño,Remembrance del sonno,نیند کی یاد,Souvenir de sommeil,Schlafinnerung,Uyku hatırası,Воспоминание со сном,یادآوری خواب
+أدعية عند الاستيقاظ,أدعية عند الاستيقاظ,Supplications when waking up,Súplicas al despertar,Supplicazione durante il risveglio,جب جاگتے ہو تو درخواستیں,Supplications lorsque vous vous réveillez,Bitten beim Aufwachen,Uyanırken,Мольбы при пробуждении,دعا هنگام بیدار شدن
+أذكار الصباح والمساء,أذكار الصباح والمساء,Morning and Evening Prayers,Oraciones de la mañana y de la tarde,Preghiere mattutine e serali,صبح اور شام کی دعائیں,Prières du matin et du soir,Morgen- und Abendgebete,Sabah ve Akşam Duaları,Утренние и вечерние молитвы,نماز صبح و عصر
+دعاء دخول الحمام,دعاء دخول الحمام,A supplication for entering the bathroom,Una súplica para ingresar al baño,Una supplica per entrare in bagno,باتھ روم میں داخل ہونے کے لئے ایک درخواست,Une supplication pour entrer dans la salle de bain,Eine Flehung zum Betreten des Badezimmers,Tuvalete girmek için bir denetim,Просьба о входе в ванную,دعایی برای ورود به حمام
+دعاء الخروج من الحمام,دعاء الخروج من الحمام,A prayer out of the bathroom,Una oración fuera del baño,Una preghiera fuori dal bagno,باتھ روم سے باہر ایک دعا,Une prière dans la salle de bain,Ein Gebet aus dem Badezimmer,Banyo dışında bir dua,Молитва из ванной,یک دعا از دستشویی
+ماذا يقول قبل الوضوء,ماذا يقول قبل الوضوء,What says before ablution,Lo que dice antes de la ablución,Cosa dice prima dell'Ablution,عدم استحکام سے پہلے کیا کہتا ہے,Ce qui dit avant l'ablution,Was sagt vor der Waschung,Ablution'dan önce ne diyor,Что говорит перед омрованием,آنچه قبل از وضوح می گوید
+ماذا يقول قبل الوضوء,ماذا يقول قبل الوضوء,What says before ablution,Lo que dice antes de la ablución,Cosa dice prima dell'Ablution,عدم استحکام سے پہلے کیا کہتا ہے,Ce qui dit avant l'ablution,Was sagt vor der Waschung,Ablution'dan önce ne diyor,Что говорит перед омрованием,آنچه قبل از وضوح می گوید
+ماذا يقول عند الانتهاء من الوضوء,ماذا يقول عند الانتهاء من الوضوء,What does he say when you are done,¿Qué dice él cuando termines?,Cosa dice quando hai finito,جب آپ کے کام ہوجاتے ہیں تو وہ کیا کہتا ہے؟,Que dit-il quand tu as fini,"Was sagt er, wenn Sie fertig sind?",İşiniz bittiğinde ne diyor,"Что он говорит, когда ты закончишь",وقتی تمام شد او چه می گوید
+الدعاء أثناء الركوع (الركوع في الصلاة),الدعاء أثناء الركوع (الركوع في الصلاة),Supplication during bowing (bowing in prayer),Súplica durante la inclinación (inclinarse en la oración),Supplica durante l'arco (inchinamento in preghiera),رکوع کے دوران درخواست (دعا میں جھکنا),Supplication lors de la s'incliner (s'incliner dans la prière),Flehen während des Beugens (Beugen im Gebet),Eğim sırasında denetim (duada eğilme),Просьба во время поклонения (поклонись в молитве),دعا در هنگام تعظیم (تعظیم در نماز)
+دعاء التشهد (الجلوس في الصلاة),دعاء التشهد (الجلوس في الصلاة),Doaa tashahhud (sitting in prayer),Doaa Tashahhud (sentado en oración),Doaa tashahhud (seduto in preghiera),دووا تاشاہود (دعا میں بیٹھے),Doaa Tashahhud (assise dans la prière),Doaa tashahhud (sitzend im Gebet),Doaa Tashahhud (duada oturuyor),Доаа Ташаххуд (сидя в молитве),Doaa Tashahhud (نشستن در نماز)
+ماذا يقول مباشرة بعد صلاة الوتر,ماذا يقول مباشرة بعد صلاة الوتر,What does he say immediately after the Witr prayer,¿Qué dice él inmediatamente después de la oración,Cosa dice immediatamente dopo la preghiera di Witr,وِٹر کی دعا کے فورا. بعد وہ کیا کہتا ہے؟,Que dit-il immédiatement après la prière de Witr,Was sagt er unmittelbar nach dem Witzgebet?,Witr namazından hemen sonra ne diyor?,Что он говорит сразу после молитвы WITR,او بلافاصله پس از دعای ویتر چه می گوید
+ماذا يقول بعد الانتهاء من الصلاة,ماذا يقول بعد الانتهاء من الصلاة,What does he say after completing the prayer,¿Qué dice él después de completar la oración?,Cosa dice dopo aver completato la preghiera,وہ دعا کو مکمل کرنے کے بعد کیا کہتا ہے؟,Que dit-il après avoir terminé la prière,Was sagt er nach Abschluss des Gebets,Duayı tamamladıktan sonra ne diyor,Что он говорит после завершения молитвы,او پس از اتمام نماز چه می گوید
+أدعية لفطر الصيام,أدعية لفطر الصيام,Supplications for fasting fast,Súplicas para ayunar,Supplicazione per il digiuno veloce,روزہ رکھنے کے ل supplits درخواستیں,Supplications pour le jeûne jeûne,Bitten zum Fasten schnell,Hızlı oruç tutma,Просьба для быстрого наставления,دعا برای روزه گرفتن
+أدعية لفطر الصيام,أدعية لفطر الصيام,Supplications for fasting fast,Súplicas para ayunar,Supplicazione per il digiuno veloce,روزہ رکھنے کے ل supplits درخواستیں,Supplications pour le jeûne jeûne,Bitten zum Fasten schnell,Hızlı oruç tutma,Просьба для быстрого наставления,دعا برای روزه گرفتن
+دعاء رؤية الهلال الجديد,دعاء رؤية الهلال الجديد,Doaa see the new crescent,Doaa ver la nueva media luna,Doaa vedi la nuova mezzaluna,دووا نیا کریسنٹ دیکھیں,Doaa voir le nouveau croissant,DOAA sehen den neuen Halbmond,Doaa yeni hilal gör,DOAA увидеть новый полумесяц,doaa هلال جدید را ببینید
+دعاء الصائم عند الافطار,دعاء الصائم عند الافطار,The prayer of the fasting person at breakfast,La oración de la persona en ayunas en el desayuno,La preghiera della persona a digiuno a colazione,ناشتے میں روزہ رکھنے والے شخص کی دعا,La prière du jeûne au petit déjeuner,Das Gebet der Fastenperson beim Frühstück,Kahvaltıda oruç kişinin duası,Молитва постичь за завтраком,دعای فرد روزه دار در صبحانه
+الدعاء عند لبس الملابس,الدعاء عند لبس الملابس,Supplication when wearing clothes,Súplica al usar ropa,Supplica quando indossi i vestiti,جب کپڑے پہنتے ہو تو درخواست,Supplication lorsque vous portez des vêtements,Flehen beim Tragen von Kleidung,Kıyafet giyerken denetim,Просьба при ношении одежды,دعا هنگام پوشیدن لباس
+اللباس الجديد,اللباس الجديد,New dress,Vestido nuevo,Vestito nuovo,نیا لباس,Nouvelle robe,Neues Kleid,Yeni elbise,Новое платье,لباس جدید
+"الدعاء عند لبس الملابس, اللباس الجديد","الدعاء عند لبس الملابس, اللباس الجديد","Supplication when wearing clothes, the new dress","Súplica al usar ropa, el vestido nuevo","Supplica quando indossa abiti, il nuovo vestito",جب کپڑے پہنے ، نیا لباس پہنتے ہو تو درخواست,"Supplication lorsque vous portez des vêtements, la nouvelle robe","Flehen beim Tragen von Kleidung, das neue Kleid","Giysiler giyerken, yeni elbise","Просьба при ношении одежды, новое платье",دعا هنگام پوشیدن لباس ، لباس جدید
+ماذا أقول عند خلع الملابس,ماذا أقول عند خلع الملابس,What do I say when dislocating clothes,¿Qué digo al dislocar la ropa?,Cosa dico quando si slogano i vestiti,کپڑے منتشر کرتے وقت میں کیا کہوں؟,Que dis-je lors de la dislocation des vêtements,"Was sage ich, wenn ich Kleidung verströmt habe",Kıyafetleri yerinden çıkarırken ne diyorum,"Что я могу сказать, когда вывих",هنگام جابجایی لباس چه می گویم
+الدعاء عند لبس الملابس الجديدة,الدعاء عند لبس الملابس الجديدة,Supplication when wearing new clothes,Súplica al usar ropa nueva,Supplica quando indossi abiti nuovi,جب نئے کپڑے پہنتے ہیں تو درخواست,Supplication lorsque vous portez de nouveaux vêtements,Flehen beim Tragen neuer Kleidung,Yeni kıyafetler giyerken denetim,Просьба при новой одежде,دعا هنگام پوشیدن لباس جدید
+الدعاء بعد الأكل,الدعاء بعد الأكل,Supplication after eating,Súplica después de comer,Supplica dopo aver mangiato,کھانے کے بعد درخواست,Supplication après avoir mangé,Flehen nach dem Essen,Yemekten sonra denetim,Просьба после еды,دعا بعد از غذا خوردن
+ماذا أقول عند دخول المنزل,ماذا أقول عند دخول المنزل,What do I say when entering the house,¿Qué digo al entrar en la casa?,Cosa dico quando entri in casa,گھر میں داخل ہوتے وقت میں کیا کہوں؟,Que dis-je en entrant dans la maison,Was sage ich beim Betreten des Hauses,Eve girerken ne diyorum,"Что мне сказать, когда въезжаю в дом",هنگام ورود به خانه چه می گویم
+دعاء ضيف العشاء لمضيفه,دعاء ضيف العشاء لمضيفه,Dua of dinner guest for his host,Dua de invitado a cenar para su anfitrión,Dua of Dinner Ospite per il suo ospite,اپنے میزبان کے لئے رات کے کھانے کے مہمان کی دعا,Dua du dîner invité pour son hôte,Dua des Abendessens Gast für seinen Gastgeber,Ev sahibi için akşam yemeği misafiri dua,Дуа ужина гость для своего хозяина,مهمان شام برای میزبان خود
+ماذا يقول أثناء الجلوس في المجلس,ماذا يقول أثناء الجلوس في المجلس,What says while sitting in the council,¿Qué dice mientras está sentado en el consejo?,Cosa dice mentre era seduto in consiglio,کونسل میں بیٹھے ہوئے کیا کہتا ہے,Ce qui dit en étant assis au conseil,"Was sagt, während er im Rat sitzt",Konseyde otururken ne diyor,"Что говорит, сидя в совете",آنچه می گوید در حالی که در شورا نشسته است
+ماذا أقول عند الخروج من المنزل,ماذا أقول عند الخروج من المنزل,What do I say when leaving the house,¿Qué digo al salir de casa?,Cosa dico quando esci da casa,گھر چھوڑتے وقت میں کیا کہوں؟,Que dis-je en quittant la maison,"Was sage ich, wenn ich das Haus verlasse",Evden ayrılırken ne diyorum,"Что мне сказать, когда выходим из дома",هنگام ترک خانه چه می گویم
+كفارة المجلس,كفارة المجلس,Atonement of the Council,Expitación del consejo,Espiazione del consiglio,کونسل کا کفارہ,Expiation du conseil,Sühne des Rates,Konseyin kefareti,Искупление совета,کفاره شورا
+دعاء الغضب,دعاء الغضب,Prayer of anger,Oración de ira,Preghiera di rabbia,غصے کی دعا,Prière de colère,Gebet des Ärgers,Öfke Duası,Молитва гнева,دعای عصبانیت
+التوبة والاستغفار,التوبة والاستغفار,Repentance and forgiveness,Arrepentimiento y perdón,Pentimento e perdono,توبہ اور معافی,Repentir et pardon,Reue und Vergebung,Tövbe ve affetme,Покаяние и прощение,توبه و بخشش
+دعاء الذهاب إلى المسجد,دعاء الذهاب إلى المسجد,Doaa go to the mosque,Doaa va a la mezquita,Doaa vai alla moschea,دووا مسجد میں جاتے ہیں,Doaa va à la mosquée,DOAA gehen in die Moschee,Doaa camiye git,Доаа иди в мечеть,دوا به مسجد بروید
+دعاء دخول المسجد,دعاء دخول المسجد,Doaa enter the mosque,DOAA Entra en la mezquita,Doaa entra nella moschea,دووا مسجد میں داخل ہوا,Doaa entre dans la mosquée,DOAA betreten die Moschee,Doaa camiye giriyor,DOAA входит в мечеть,DOAA وارد مسجد شوید
+دعاء الخروج من المسجد,دعاء الخروج من المسجد,Doaa leaving the mosque,Doaa sale de la mezquita,Doaa che lascia la moschea,دووا مسجد چھوڑ رہے ہیں,Doaa quittant la mosquée,DOAA verlässt die Moschee,Doaa Camii terk ediyor,DOAA покидает мечеть,دوا از مسجد خارج می شود
+الاستخارة (طلب مشورة الله),الاستخارة (طلب مشورة الله),Istikhara (requesting the advice of God),Istikhara (solicitando el consejo de Dios),Istikhara (che richiede il consiglio di Dio),استخارا (خدا کے مشورے کی درخواست),Istikhara (demandant les conseils de Dieu),Istikhara (Anfragen des Rates Gottes),İstikhara (Tanrı'nın tavsiyesini talep etmek),Истихара (просит совета Бога),استیخارا (درخواست توصیه خدا)
+ثواب زيارة المريض,ثواب زيارة المريض,The reward for visiting the patient,La recompensa por visitar al paciente,La ricompensa per aver visitato il paziente,مریض سے ملنے کا انعام,La récompense pour avoir visité le patient,Die Belohnung für den Besuch des Patienten,Hastayı ziyaret etmenin ödülü,Награда за посещение пациента,پاداش مراجعه به بیمار
+دعاء المريض,دعاء المريض,Patient supplication,Súplica de paciente,Supplica del paziente,مریض کی درخواست,Supplication des patients,Patientendaten,Hasta İncelemesi,Улишение пациента,دعاء بیمار
+ماذا تقول عندما تشعر بألم في جسدك,ماذا تقول عندما تشعر بألم في جسدك,What do you say when you feel pain in your body,¿Qué dices cuando sientes dolor en tu cuerpo?,Cosa dici quando senti dolore nel tuo corpo,جب آپ اپنے جسم میں درد محسوس کرتے ہیں تو آپ کیا کہتے ہیں؟,Que dites-vous quand vous ressentez de la douleur dans votre corps,"Was sagst du, wenn du Schmerzen in deinem Körper fühlst?",Vücudunda acı hissettiğinde ne dersin,"Что ты скажешь, когда чувствуешь боль в своем теле",وقتی احساس درد در بدن می کنید چه می گویید
+أدعية المرض النهائي,أدعية المرض النهائي,Supplications of the final disease,Súplicas de la enfermedad final,Supplicazione della malattia finale,حتمی بیماری کی فراہمی,Supplications de la maladie finale,Anzeichen der endgültigen Krankheit,Nihai hastalığın denetimleri,Просьба конечной болезни,دعاوی بیماری نهایی
+الدعاء عند وقوع المصيبة,الدعاء عند وقوع المصيبة,Supplication when the calamity occurs,Súplica cuando ocurre la calamidad,Supplica quando si verifica la calamità,جب تباہی ہوتی ہے تو اس کی درخواست ہوتی ہے,Supplication lorsque la calamité se produit,"Flehen, wenn das Unglück auftritt",Felaket meydana geldiğinde,"Просьба, когда происходит бедствие",دعا وقتی فاجعه رخ می دهد
+ما يجب تشجيع الشخص المحتضر على قوله,ما يجب تشجيع الشخص المحتضر على قوله,What should be encouraged by the dying person to say,Lo que la persona moribunda debe alentar a decir,Cosa dovrebbe essere incoraggiato dalla persona morente a dire,مرنے والے شخص کی طرف سے کیا حوصلہ افزائی کی جانی چاہئے,Ce qui devrait être encouragé par la mourante à dire,"Was sollte von der Sterbenden ermutigt werden, zu sagen",Ölmekte olan kişi tarafından ne teşvik edilmelidir?,Что следует поощрять умирающий,چه چیزی باید توسط فرد در حال مرگ تشویق شود
+دعاء الميت في صلاة الجنازة,دعاء الميت في صلاة الجنازة,The supplication of the dead in the funeral prayer,La súplica de los muertos en la oración fúnebre,La supplica dei morti nella preghiera funebre,آخری رسومات میں مردہ افراد کی درخواست,La supplication des morts dans la prière funéraire,Das Flehen der Toten im Begräbnisgebet,Cenaze Duası'nda ölülerin denetlenmesi,Просьба мертвых в похоронной молитве,دعا مردگان در دعای تشییع جنازه
+دعاء الميت,دعاء الميت,dead person prayer,Oración de la persona muerta,Preghiera della persona morta,مردہ شخص کی دعا,Prière de personne morte,Totes Gebet,ölü kişi duası,молитва мертвого человека,نماز مرده
+أدعية للطفل في صلاة الجنازة,أدعية للطفل في صلاة الجنازة,Supplications for the child in the funeral prayer,Súplicas para el niño en la oración del funeral,Supplicazione per il bambino nella preghiera funebre,جنازے کی نماز میں بچے کے ل supplications درخواستیں,Supplications pour l'enfant dans la prière funéraire,Bitten für das Kind im Begräbnisgebet,Cenaze Namazında Çocuğa Destekler,Просьба для ребенка в похоронной молитве,دعا برای کودک در دعای تشییع جنازه
+دعاء تغميض عيون الميت,دعاء تغميض عيون الميت,A supplication that closes the eyes of the dead,Una súplica que cierra los ojos de los muertos,Una supplica che chiude gli occhi dei morti,ایک ایسی درخواست جو مردوں کی آنکھیں بند کردیتی ہے,Une supplication qui ferme les yeux des morts,"Eine Flehung, die die Augen der Toten schließt",Ölülerin gözlerini kapatan bir denetim,"Просьба, которое закрывает глаза мертвых",دعایی که چشم مردگان را می بندد
+دعاء للمفجوعين,دعاء للمفجوعين,A prayer for the hungry,Una oración por los hambrientos,Una preghiera per gli affamati,بھوکے کے لئے دعا,Une prière pour les affamés,Ein Gebet für die Hungrigen,Açlar için bir dua,Молитва за голодные,دعایی برای گرسنه
+دعاء زيارة القبور,دعاء زيارة القبور,Doaa visit graves,DOAA Visita Graves,DOAA Visita Graves,ڈووا قبروں کا دورہ کریں,Doaa visite les tombes,DOAA besuchen Gräber,Doaa Graves'i ziyaret edin,Доаа посещает Грейвс,DOAA از قبرها بازدید کنید
+ما يجب تشجيع الشخص المحتضر على قوله,ما يجب تشجيع الشخص المحتضر على قوله,What should be encouraged by the dying person to say,Lo que la persona moribunda debe alentar a decir,Cosa dovrebbe essere incoraggiato dalla persona morente a dire,مرنے والے شخص کی طرف سے کیا حوصلہ افزائی کی جانی چاہئے,Ce qui devrait être encouragé par la mourante à dire,"Was sollte von der Sterbenden ermutigt werden, zu sagen",Ölmekte olan kişi tarafından ne teşvik edilmelidir?,Что следует поощрять умирающий,چه چیزی باید توسط فرد در حال مرگ تشویق شود
+الدعاء الذي يقال بعد دفن الميت,الدعاء الذي يقال بعد دفن الميت,The supplication that is said after the burial of the dead,La súplica que se dice después del entierro de los muertos,La supplica che viene detto dopo la sepoltura dei morti,درخواست جو مردہ کی تدفین کے بعد کہی جاتی ہے,La supplication qui est dite après l'enterrement des morts,"Die Flehung, die nach der Beerdigung der Toten gesagt wird",Ölülerin gömülmesinden sonra söylenen denetim,"Просьба, которое сказано после захоронения мертвых",دعا که پس از دفن مردگان گفته می شود
+دعاء للسفر,دعاء للسفر,A prayer for travel,Una oración por viajar,Una preghiera per il viaggio,سفر کے لئے دعا,Une prière pour les voyages,Ein Gebet für Reisen,Seyahat için Dua,Молитва за путешествие,دعایی برای سفر
+دعاء دخول بلدة أو مدينة,دعاء دخول بلدة أو مدينة,A supplication to enter a town or a city,Una súplica para ingresar a una ciudad o una ciudad,Una supplica per entrare in una città o in una città,کسی شہر یا شہر میں داخل ہونے کے لئے ایک درخواست,Une supplication pour entrer dans une ville ou une ville,"Ein Flehen, um eine Stadt oder eine Stadt zu betreten",Bir şehre veya şehre girmek için bir denetim,"Просьба, чтобы войти в город или город",یک دعای برای ورود به یک شهر یا شهر
+تعظيم الله وتعظيمه في الرحلة,تعظيم الله وتعظيمه في الرحلة,Greatness and glorification of God on the trip,Grandeza y glorificación de Dios en el viaje,Grandezza e glorificazione di Dio durante il viaggio,سفر پر خدا کی عظمت اور تسبیح,Grandeur et glorification de Dieu pendant le voyage,Größe und Verherrlichung Gottes auf der Reise,Yolculukta Tanrı'nın büyüklüğü ve yüceltilmesi,Величие и прославление Бога в поездке,عظمت و تجلیل از خدا در سفر
+دعاء المقيم للمسافر,دعاء المقيم للمسافر,Doaa resident of the traveler,DOAA Residente del viajero,DOAA residente del viaggiatore,مسافر کا رہائشی دووا,Doaa résident du voyageur,DOAA -Bewohner des Reisenden,DOAA Gezgin sakini,Доаа житель путешественника,دوا ساکن مسافر
+دعاء الركوب على المركبة أو على الحيوان,دعاء الركوب على المركبة أو على الحيوان,Prayer riding on the vehicle or on the animal,Oración que viaja en el vehículo o en el animal,Preghiera cavalcando sul veicolo o sull'animale,گاڑی پر یا جانور پر سوار نماز,Prière de la prière sur le véhicule ou sur l'animal,"Gebet, das auf dem Fahrzeug oder auf dem Tier fährt",Araçta veya hayvana binmek,Молитва ездит на автомобиле или на животное,نماز سوار بر وسیله نقلیه یا حیوان
+دعاء المسافر عند الفجر,دعاء المسافر عند الفجر,Doaa traveler at dawn,Doaa viajero al amanecer,DOAA Viaggiatore all'alba,ڈان کے وقت دووا مسافر,Doaa Traveler à l'aube,DOAA -Reisender im Morgengrauen,Dawn'da Doaa Traveler,Доаа путешественник на рассвете,مسافر Doaa در سپیده دم
+ماذا أقول عند العودة من السفر,ماذا أقول عند العودة من السفر,What do I say when returning from travel,¿Qué digo al regresar de viajar?,Cosa dico quando torno dal viaggio,سفر سے واپس آنے پر میں کیا کہوں؟,Que dis-je à son retour de voyage,"Was sage ich, wenn ich von der Reise zurückkomme?",Seyahatten dönerken ne diyorum,"Что мне сказать, возвращаясь из путешествия",هنگام بازگشت از سفر چه می گویم
+دعاء عند نزول المطر,دعاء عند نزول المطر,A prayer when rain descends,Una oración cuando la lluvia desciende,Una preghiera quando la pioggia scende,ایک دعا جب بارش اترتی ہے,Une prière lorsque la pluie descend,"Ein Gebet, wenn Regen absteigt",Yağmur indiğinde bir dua,"Молитва, когда дождь спускается",دعا وقتی باران می رود
+دعاء عند هبوب الريح,دعاء عند هبوب الريح,Doaa when the wind blows,Doaa cuando sopla el viento,Doaa quando soffia il vento,جب ہوا چلتی ہے تو doaa,Doaa quand le vent souffle,"DOAA, wenn der Wind weht",Doaa rüzgar esiyor,"DOAA, когда дует ветер",دوا وقتی باد می وزد
+دعاء عند الرعد,دعاء عند الرعد,A supplication when thunder,Una súplica cuando el trueno,Una supplica quando il tuono,جب گرج,Une supplication quand le tonnerre,Ein Flehen beim Donner,Gök gürültüsü,"Просьба, когда гром",یک دعای هنگام رعد و برق
+بعض أدعية نزول المطر,بعض أدعية نزول المطر,Some of the supplications of rain,Algunas de las súplicas de la lluvia,Alcune delle suppliche di pioggia,بارش کی کچھ فراہمی,Certaines des supplications de la pluie,Einige der Regenflächen des Regens,Yağmurun bazıları,Некоторые из дождей,برخی از دعاوی باران
+الدعاء بعد نزول المطر,الدعاء بعد نزول المطر,Supplication after rain descends,La súplica después de la lluvia desciende,Supplica dopo che la pioggia scende,بارش کے اترنے کے بعد درخواست,Supplication après la pluie descend,Flehen nach dem Regen steigt ab,Yağmurdan sonra displicing,Просьба после дождя спускается,دعا پس از پایین آمدن باران
+دعاء للعريس,دعاء للعريس,A prayer for the groom,Una oración por el novio,Una preghiera per lo sposo,دولہا کے لئے دعا,Une prière pour le marié,Ein Gebet für den Bräutigam,Damat için bir dua,Молитва за жених,دعایی برای داماد
+كيفية طلب حماية الله للأطفال,كيفية طلب حماية الله للأطفال,How to request the protection of God for children,Cómo solicitar la protección de Dios para los niños,Come richiedere la protezione di Dio per i bambini,بچوں کے لئے خدا کے تحفظ کی درخواست کیسے کریں,Comment demander la protection de Dieu pour les enfants,Wie man den Schutz Gottes für Kinder beantragt,Çocuklar için Tanrı'nın korunması nasıl talep edilir,Как запросить защиту Бога для детей,نحوه درخواست حمایت از خدا برای کودکان
+دعاء دخول السوق,دعاء دخول السوق,The supplication of entering the market,La súplica de ingresar al mercado,La supplica di entrare nel mercato,مارکیٹ میں داخل ہونے کی درخواست,La supplication de l'entrée sur le marché,Das Flehen des Eintritts in den Markt,Piyasaya girmenin denemesi,Просьба выхода на рынок,دعای ورود به بازار
+ماذا تقول إذا كنت تخشى أن يؤذيك الناس؟,ماذا تقول إذا كنت تخشى أن يؤذيك الناس؟,What do you say if you are afraid that people will harm you?,¿Qué dices si tienes miedo de que la gente te dañe?,Cosa dici se hai paura che le persone ti danneggino?,اگر آپ کو خوف ہے کہ لوگ آپ کو نقصان پہنچائیں گے تو آپ کیا کہیں گے؟,Que dites-vous si vous avez peur que les gens vous nuisent?,"Was sagen Sie, wenn Sie Angst haben, dass die Leute Ihnen schaden?",İnsanların size zarar vereceğinden korkarsanız ne dersin?,"Что вы скажете, если вы боитесь, что люди причинят вам вред?",اگر می ترسید مردم به شما آسیب برساند چه می گویید؟
+الدعاء الذي يقال قبل الجماع,الدعاء الذي يقال قبل الجماع,The supplication that is said before sexual intercourse,La súplica que se dice antes de las relaciones sexuales,La supplica che viene detto prima del rapporto sessuale,اس کی درخواست جو جنسی جماع سے پہلے کہی جاتی ہے,La supplication qui est dite avant les rapports sexuels,"Die Flehung, die vor dem Geschlechtsverkehr gesagt wird",Cinsel ilişkiden önce söylenen denetim,"Просьба, которое сказано перед половым актом",دعا که قبل از مقاربت جنسی گفته می شود
+الدعاء عند سماع نباح الكلب بالليل,الدعاء عند سماع نباح الكلب بالليل,Supplication when hearing the dog's bark at night,Súplica al escuchar la ladrido del perro por la noche,Supplica quando si sente la corteccia del cane di notte,رات کو کتے کی چھال سنتے وقت درخواست,Supplication lorsque vous entendez l'écorce du chien la nuit,Flehen beim Hören der Rinde des Hundes nachts,Geceleri köpeğin kabuğunu duyurken denetim,"Просьба, услышав кору собаки ночью",دعا هنگام شنیدن پوست سگ در شب
+التكبير عند المرور بالحجر الأسود,التكبير عند المرور بالحجر الأسود,Zooming when going through black stone,Zoom al pasar por piedra negra,Zoom quando si attraversa la pietra nera,کالے پتھر سے گزرتے وقت زومنگ,Zoom en passant par la pierre noire,Zooming beim Durchgehen durch den schwarzen Stein,Siyah taştan geçerken yakınlaştırma,Увеличение при прохождении через черный камень,بزرگنمایی هنگام عبور از سنگ سیاه
+ماذا يقول المسلم عند مدحه,ماذا يقول المسلم عند مدحه,What does a Muslim say when praising,¿Qué dice un musulmán al alabar?,Cosa dice un musulmano durante lo elogia,تعریف کرتے وقت ایک مسلمان کیا کہتا ہے؟,Que dit un musulman lors de l'éloge,Was sagt ein Muslim beim Lob?,Bir Müslüman övgüde ne diyor?,"Что говорит мусульманин, восхваляя",یک مسلمان هنگام ستایش چه می گوید
+ماذا أقول عند الدهشة أو الدهشة,ماذا أقول عند الدهشة أو الدهشة,What do I say when surprising or surprised,¿Qué digo cuando me sorprende o sorprende?,Cosa dico quando sorprendente o sorpreso,حیرت زدہ یا حیران ہونے پر میں کیا کہوں؟,Que dis-je lorsqu'il est surprenant ou surpris,"Was sage ich, wenn ich überraschend oder überrascht?",Şaşırtıcı veya şaşırdıklarında ne diyorum,"Что мне сказать, когда удивительно или удивлен",چه می گویم وقتی تعجب آور یا تعجب آور هستم
+بعض أدعية نزول المطر,بعض أدعية نزول المطر,Some of the supplications of rain,Algunas de las súplicas de la lluvia,Alcune delle suppliche di pioggia,بارش کی کچھ فراہمی,Certaines des supplications de la pluie,Einige der Regenflächen des Regens,Yağmurun bazıları,Некоторые из дождей,برخی از دعاوی باران
+كيف ينبغي للمسلم أن يمدح مسلما آخر,كيف ينبغي للمسلم أن يمدح مسلما آخر,How should a Muslim praise another Muslim,¿Cómo debería un musulmán alabar a otro musulmán?,Come dovrebbe un musulmano lodare un altro musulmano,ایک مسلمان کو کسی دوسرے مسلمان کی تعریف کیسے کرنی چاہئے,Comment un musulman devrait-il louer un autre musulman,Wie sollte ein Muslim einen anderen Muslim loben?,Bir Müslüman başka bir Müslüman'ı nasıl övmeli,Как мусульманин должен хвалить другого мусульманина,چگونه یک مسلمان باید یک مسلمان دیگر را ستایش کند
+ماذا يقول المسلم عند مدحه,ماذا يقول المسلم عند مدحه,What does a Muslim say when praising,¿Qué dice un musulmán al alabar?,Cosa dice un musulmano durante lo elogia,تعریف کرتے وقت ایک مسلمان کیا کہتا ہے؟,Que dit un musulman lors de l'éloge,Was sagt ein Muslim beim Lob?,Bir Müslüman övgüde ne diyor?,"Что говорит мусульманин, восхваляя",یک مسلمان هنگام ستایش چه می گوید
+دعاء العطاس,دعاء العطاس,Doaa sneezing,Doaa Storning,Doaa starnuti,doaa چھینک,Doaa éternuer,DOAA Niesen,Doaa hapşırma,Доаа чихание,DOAA عطسه
+الدعاء ضد نذير الشر,الدعاء ضد نذير الشر,Supplication against the vow of evil,Súplica contra el voto del mal,Supplica contro il voto del male,برائی کے عہد کے خلاف درخواست,Supplication contre le vœu du mal,Anbietung gegen das Gelübde des Bösen,Kötülüğün yemine karşı destek,Просьба против клятвы зла,دعای علیه نذر شر
+نشر تحية السلام (السلام),نشر تحية السلام (السلام),Publishing peace greeting (peace),Publicación de saludo de paz (paz),Pubblicare saluto di pace (pace),پبلشنگ پیس گریٹنگ (امن),Publier la salutation de la paix (paix),Friedensgruß veröffentlichen (Frieden),Barış Tebrik Yayınlanması (Barış),Публикация мира приветствие (мир),انتشار تبریک صلح (صلح)
+دعاء يقال له يوم عرفة,دعاء يقال له يوم عرفة,A prayer called on the day of Arafa,Una oración llamada el día de Arafa,Una preghiera chiamata il giorno di Arafa,عرفا کے دن ایک دعا طلب کی گئی,Une prière appelée le jour d'Arafa,"Ein Gebet, das am Tag von Arafa gerufen wurde",Arafa Günü'nde adlandırılan bir dua,"Молитва, призванная в день Арафа",دعایی که به روز عرفا فراخوانده می شود
+الدعاء على العدو,الدعاء على العدو,Supplication for the enemy,Súplica para el enemigo,Supplica per il nemico,دشمن کے لئے درخواست,Supplication pour l'ennemi,Flehen für den Feind,Düşman için denetim,Просьба для врага,دعا برای دشمن
+دعاء لشخص تكلمت معه بالسوء,دعاء لشخص تكلمت معه بالسوء,A prayer for a person you spoke to him badly,Una oración por una persona que le hablaste mal,Una preghiera per una persona che gli hai parlato male,کسی ایسے شخص کے لئے دعا جس سے آپ نے اس سے بری طرح بات کی,Une prière pour une personne que vous lui avez parlé mal,"Ein Gebet für eine Person, die Sie schlecht mit ihm gesprochen haben",Onunla kötü konuştuğun bir kişi için bir dua,"Молитва за человека, которого вы говорили с ним плохо",دعایی برای شخصی که با او بد صحبت کردید
+ماذا تفعل إذا كان لديك حلم سيء أو كابوس,ماذا تفعل إذا كان لديك حلم سيء أو كابوس,What to do if you have a bad dream or a nightmare,Qué hacer si tienes un mal sueño o una pesadilla,Cosa fare se hai un brutto sogno o un incubo,اگر آپ کا برا خواب یا ڈراؤنا خواب ہے تو کیا کریں,Que faire si vous avez un mauvais rêve ou un cauchemar,"Was tun, wenn Sie einen schlechten Traum oder einen Albtraum haben",Kötü bir hayalin veya kabusunuz varsa ne yapmalısınız,"Что делать, если у вас есть плохой сон или кошмар",اگر رویای بد یا کابوس داشته باشید چه کاری باید انجام دهید
+دعاء الخوف من الشرك,دعاء الخوف من الشرك,Prayer of fear of polytheism,Oración de miedo al politeísmo,Preghiera della paura del politeismo,کثیر الجہتی خوف کی دعا,Prière de peur du polythéisme,Gebet der Angst vor Polytheismus,Çoktanrıcılık korkusu duası,Молитва страха политеизма,دعای ترس از شرک
+دعاء لمن أحسن إليك,دعاء لمن أحسن إليك,A prayer for those who are better for you,Una oración por aquellos que son mejores para ti,Una preghiera per coloro che sono migliori per te,ان لوگوں کے لئے دعا جو آپ کے لئے بہتر ہیں,Une prière pour ceux qui sont meilleurs pour vous,"Ein Gebet für diejenigen, die besser für Sie sind",Sizin için daha iyi olanlar için bir dua,"Молитва за тех, кто лучше для вас",دعایی برای کسانی که برای شما بهتر هستند
+tasbeeh,التسبيح,Praise,Elogio,Lode,تعریف,Louer,Lob,Övmek,Хвалить,ستایش
+retry,مرة أخرى,once again,otra vez,di nuovo,ایک بار پھر,Encore une fois,Nochmal,bir daha,снова,یک بار دیگر
+share,مشاركة,sharing,intercambio,condivisione,اشتراک,partage,Teilen,paylaşım,обмен,تقسیم
+asmaa_allah_husna,أسماء الله الحسنى,God Names,Nombres de dios,Nomi di Dio,خدا کے نام,Noms d'Allah,Gott Namen,Allah'ın isimleri,Божьи имена,نام خدا
+permission_denied,تم رفض الأذن,permission denied,Permiso denegado,permesso negato,اجازت نہیں دی گئی,permission refusée,Zugriff verweigert,izin reddedildi,доступ запрещен,مجوز رد شد
+update_location:,تغير الموقع,Site change,Cambio de sitio,Cambiamento del sito,سائٹ کی تبدیلی,Changement de site,Standortänderung,Site Değişikliği,Изменение сайта,تغییر سایت
+choose_the_azan_calculation_method:,أختيار طريقة حساب الأذان,Choose the ears calculating how to calculate,Elija las orejas calculando cómo calcular,Scegli le orecchie che calcolano come calcolare,حساب کتاب کرنے کا حساب کتاب کرنے والے کانوں کا انتخاب کریں,Choisissez les oreilles calculant comment calculer,"Wählen Sie die Ohren aus, die berechnen, wie berechnet wird",Nasıl hesaplanacağını hesaplayan kulakları seçin,"Выберите уши, рассчитывающие, как рассчитать",گوش ها را انتخاب کنید که نحوه محاسبه را محاسبه کنید
+change_moazen_voice:,تغيير صوت المؤذن,Change the muezzin voice,Cambiar la voz de muezzin,Cambia la voce muezzin,میوزین آواز کو تبدیل کریں,Changez la voix de Muezzin,Ändern Sie die Muezzin -Stimme,Muezzin sesini değiştir,Изменить голос muezzin,صدای Muezzin را تغییر دهید
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+,,,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
