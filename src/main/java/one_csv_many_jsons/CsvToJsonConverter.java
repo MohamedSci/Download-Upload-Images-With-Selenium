@@ -16,20 +16,25 @@ public class CsvToJsonConverter {
         String csvFilePath = "muslim_app_widgets_translation.csv";
         try {
             CSVReader csvReader = new CSVReader(new FileReader(csvFilePath));
-            String[] header = csvReader.readNext(); // Read header row
-            for (int i = 1; i < header.length; i++) {
-                Map<String, String> dataMap = new HashMap<>();
-                String outputFileName = "C:\\Users\\moham\\eclipse-workspace\\download_upload_images\\src\\main\\java\\output\\"+header[i] + ".json";
-                String[] row;
-                while ((row = csvReader.readNext()) != null) {
-                    dataMap.put(row[0], row[i]);
+            String[] header = csvReader.readNext();
+            if(header ==  null || header.length == 0){
+            	System.out.println("---Error: header ==  null || header.length == 0");// Read header row
+            }else {
+                for (int i = 1; i < header.length; i++) {
+                    Map<String, String> dataMap = new HashMap<>();
+                    String outputFileName = "C:\\Users\\moham\\eclipse-workspace\\download_upload_images\\src\\main\\java\\one_csv_many_jsons\\output\\"+header[i] + ".json";
+                    String[] row;
+                    while ((row = csvReader.readNext()) != null) {
+                        dataMap.put(row[0], row[i]);
+                    }
+                    writeJsonFile(dataMap, outputFileName);
+                    csvReader = new CSVReader(new FileReader(csvFilePath)); // Reset CSV reader
+                    csvReader.readNext(); // Skip header row
                 }
-                writeJsonFile(dataMap, outputFileName);
-                csvReader = new CSVReader(new FileReader(csvFilePath)); // Reset CSV reader
-                csvReader.readNext(); // Skip header row
+                csvReader.close();
+                System.out.println("JSON files generated successfully.");
             }
-            csvReader.close();
-            System.out.println("JSON files generated successfully.");
+
         } catch (IOException e) {
             e.printStackTrace();
         }

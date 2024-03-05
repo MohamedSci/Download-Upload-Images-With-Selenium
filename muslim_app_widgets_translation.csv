@@ -3,7 +3,6 @@ azan,أزان,Azan,Salir,Esci,باہر جانا,Sortir,Hinausgehen,Dışarı ç�
 quran,القرآن,Quran,El Corán,Il Corano,قرآن,Le Coran,Der Koran,Kuran,Коран,قرآن
 azkar,أزكار,Azkar,Faro,Faro,بیکن,Balise,Leuchtfeuer,İşaret,Маяк,چراغ
 culture,ثقافة,Culture,cultura,cultura,ثقافت,culture,Kultur,kültür,культура,فرهنگ
-salah,صلاح,Salah,Salah,Salah,صلاح,Salah,Salah,Salah,Салах,صلاح
 mon,الاثنين,Mon,Lunes,Lunedi,پیر,Lundi,Montag,Pazartesi,Понедельник,دوشنبه
 tue,الثلاثاء,Tue,Martes,Martedì,منگل,Mardi,Dienstag,Salı,Вторник,سهشنبه
 wed,الأربعاء,Wed,Miércoles,Mercoledì,بدھ,Mercredi,Mittwoch,Çarşamba,Среда,چهار شنبه
@@ -12,17 +11,17 @@ fri,الجمعة,Fri,Viernes,Venerdì,جمعہ,Vendredi,Freitag,Cuma,Пятни�
 sat,السبت,Sat,Sábado,Sabato,ہفتہ,Samedi,Samstag,Cumartesi,Суббота,شنبه
 sun,الأحد,Sun,Domingo,Domenica,اتوار,Dimanche,Sonntag,Pazar,Воскресенье,یکشنبه
 mon,الاثنين,Mon,Lunes,Lunedi,پیر,Lundi,Montag,Pazartesi,Понедельник,دوشنبه
-fajr,الفجر,Fajr,Alba,All'alba,دن کا وقفہ,Aube,Tagesanbruch,Gündüzü,Рассвет,طلوع شبانه روز
-sunrise,شروق الشمس,Sunrise,el amanecer,alba,طلوع آفتاب,Lever du soleil,Sonnenaufgang,güneşin doğuşu,восход,طلوع خورشید
-dhuhr,الظهر,Dhuhr,mediodía,mezzogiorno,دوپہر,midi,Mittag,öğlen,полдень,ظهر
-asr,العصر,Asr,edad,età,عمر,âge,Alter,yaş,возраст,سن
-sunset,الغروب,Sunset,Atardecer,Tramonto,غروب آفتاب,Coucher de soleil,Sonnenuntergang,Gün batımı,Закат,غروب
-maghrib,المغرب,Maghrib,Marruecos,Marocco,مراکش,Maroc,Marokko,Fas,Марокко,مراکشی
-isha,العشاء,Isha,cena,cena,رات کا کھانا,dîner,Abendessen,akşam yemeği,ужин,شام
-imsak,إيمساك,Imsak,Embebido,Embsak,ایمبساک,Empièce,EMBSAK,Emssak,Эмбак,باقمستان
-midnight,منتصف الليل,Midnight,medianoche,mezzanotte,آدھی رات,Minuit,Mitter Nacht,gece yarısı,полночь,نیمه شب
-firstthird,الثلث الأول,Firstthird,El primer tercio,Il primo terzo,پہلا تیسرا,Le premier tiers,Das erste Drittel,Birinci Üçüncü,Первая треть,سوم اول
-lastthird,التثلث الاأخير,Lastthird,La última contaminación,L'ultimo inquinamento,آخری آلودگی,La dernière pollution,Die letzte Verschmutzung,Son Kirlilik,Последнее загрязнение,آخرین آلودگی
+Fajr,الفجر,Fajr,Alba,All'alba,دن کا وقفہ,Aube,Tagesanbruch,Gündüzü,Рассвет,طلوع شبانه روز
+Sunrise,شروق الشمس,Sunrise,el amanecer,alba,طلوع آفتاب,Lever du soleil,Sonnenaufgang,güneşin doğuşu,восход,طلوع خورشید
+Dhuhr,الظهر,Dhuhr,mediodía,mezzogiorno,دوپہر,midi,Mittag,öğlen,полдень,ظهر
+Asr,العصر,Asr,edad,età,عمر,âge,Alter,yaş,возраст,سن
+Sunset,الغروب,Sunset,Atardecer,Tramonto,غروب آفتاب,Coucher de soleil,Sonnenuntergang,Gün batımı,Закат,غروب
+Maghrib,المغرب,Maghrib,Marruecos,Marocco,مراکش,Maroc,Marokko,Fas,Марокко,مراکشی
+Isha,العشاء,Isha,cena,cena,رات کا کھانا,dîner,Abendessen,akşam yemeği,ужин,شام
+Imsak,Imsak,Imsak,Imsak,Imsak,imsak,Imsak,IMSAK,İmsak,Imsak,امساک
+Midnight,منتصف الليل,Midnight,medianoche,mezzanotte,آدھی رات,Minuit,Mitter Nacht,gece yarısı,полночь,نیمه شب
+Firstthird,الثلث الأول,Firstthird,El primer tercio,Il primo terzo,پہلا تیسرا,Le premier tiers,Das erste Drittel,Birinci Üçüncü,Первая треть,سوم اول
+Lastthird,التثلث الاأخير,Lastthird,La última contaminación,L'ultimo inquinamento,آخری آلودگی,La dernière pollution,Die letzte Verschmutzung,Son Kirlilik,Последнее загрязнение,آخرین آلودگی
 location_status,حالة الموقع,Location Status,Estado del sitio,Stato del sito,سائٹ کی حیثیت,Statut du site,Standortstatus,Site Durumu,Статус сайта,وضعیت سایت
 given,معطى,Given,Dado,Dato,دیئے گئے,Donné,Gegeben,Verilen,Данный,داده شده
 permission_permanently_denied,الاذن تم رفضه بشكل كامل,Permission permanently denied,La oreja fue completamente rechazada,L'orecchio è stato completamente respinto,کان کو مکمل طور پر مسترد کردیا گیا تھا,L'oreille a été complètement rejetée,Das Ohr wurde vollständig abgelehnt,Kulak tamamen reddedildi,Ухо было полностью отвергнуто,گوش کاملاً رد شد
@@ -192,7 +191,7 @@ hours,ساعات,hours,horas,ore,گھنٹے,heures,Std.,saat,часы,ساعت �
 and,و,and,Y,E,اور,Et,Und,Ve,И,وت
 minutes,دقائق,minutes,minutos,minuti,منٹ,minutes,Protokoll,dakikalar,минуты,دقایق
 to,ل,to,a,A,to,à,Zu,ile,к,به
-فضل ذكر الله,فضل ذكر الله,The preference of remembrance of God,La preferencia del recuerdo de Dios,La preferenza del ricordo di Dio,خدا کی یاد کی ترجیح,La préférence de souvenir de Dieu,Die Präferenz der Erinnerung an Gott,Tanrı'nın anma tercihi,Предпочтение воспоминания о Боге,اولویت یادآوری خدا
+فضل ذكر الله,فضل ذكر الله,The merit of remembrance of God,El mérito del recuerdo de Dios,Il merito del ricordo di Dio,خدا کی یاد کی خوبی,Le mérite du souvenir de Dieu,Das Verdienst der Erinnerung an Gott,Tanrı'nın Anma değeri,Заслуга воспоминания о Боге,شایستگی یادآوری خدا
 أذكار النوم,أذكار النوم,Sleep remembrance,Recuerdo del sueño,Remembrance del sonno,نیند کی یاد,Souvenir de sommeil,Schlafinnerung,Uyku hatırası,Воспоминание со сном,یادآوری خواب
 أدعية عند الاستيقاظ,أدعية عند الاستيقاظ,Supplications when waking up,Súplicas al despertar,Supplicazione durante il risveglio,جب جاگتے ہو تو درخواستیں,Supplications lorsque vous vous réveillez,Bitten beim Aufwachen,Uyanırken,Мольбы при пробуждении,دعا هنگام بیدار شدن
 أذكار الصباح والمساء,أذكار الصباح والمساء,Morning and Evening Prayers,Oraciones de la mañana y de la tarde,Preghiere mattutine e serali,صبح اور شام کی دعائیں,Prières du matin et du soir,Morgen- und Abendgebete,Sabah ve Akşam Duaları,Утренние и вечерние молитвы,نماز صبح و عصر
@@ -200,7 +199,7 @@ to,ل,to,a,A,to,à,Zu,ile,к,به
 الوضوء,الوضوء,Ablution,Ablución,Abluzione,وضو,Ablution,Waschung,Abartı,Омовение,شستشو
 أذكار الصلاة,أذكار الصلاة,Declaration of prayer,Declaración de oración,Dichiarazione di preghiera,دعا کا اعلان,Déclaration de prière,Gebetserklärung,Dua Beyanı,Декларация молитвы,اعلام دعا
 أدعية الصائم,أدعية الصائم,Supplications of the fasting person,Súplicas de la persona en ayunas,Supplicazione della persona a digiuno,روزہ رکھنے والے شخص کی فراہمی,Supplications de la personne à jeun,Anzeichen der Fastenperson,Oruç Kişinin Denetimi,Просьба постинного человека,دعاوی فرد روزه دار
-أذكار اللباس,أذكار اللباس,Dress remembrance,Recuerdo de vestir,Abito Remembrance,لباس کی یاد,Souvenir de la robe,Kleidung Erinnerung,Anma hatırası,Платье память,یادآوری لباس
+أذكار اللباس,أذكار اللباس,Dress remembrance,Vestido de recuerdo,Abito Remembrance,لباس کی یاد,Souvenir de la robe,Kleidung Erinnerung,Anma hatırası,Платье память,یادآوری لباس
 أذكار الطعام,أذكار الطعام,Delivery of the food,Entrega de la comida,Consegna del cibo,کھانے کی فراہمی,Livraison de la nourriture,Lieferung der Lebensmittel,Yiyeceklerin Teslimatı,Доставка еды,تحویل غذا
 أذكار المنزل,أذكار المنزل,Declaration of the house,Declaración de la casa,Dichiarazione della casa,گھر کا اعلان,Déclaration de la maison,Erklärung des Hauses,Evin beyanı,Декларация дома,اعلامیه خانه
 التوبة والاستغفار,التوبة والاستغفار,Repentance and forgiveness,Arrepentimiento y perdón,Pentimento e perdono,توبہ اور معافی,Repentir et pardon,Reue und Vergebung,Tövbe ve affetme,Покаяние и прощение,توبه و بخشش
@@ -210,7 +209,7 @@ to,ل,to,a,A,to,à,Zu,ile,к,به
 أذكار السفر,أذكار السفر,Travel remembrance,Recuerdo de viaje,Travel Remembrance,سفر کی یاد,Souvenir des voyages,Reiseerinnerung,Seyahat anısı,Путешествие память,یادآوری سفر
 أذكار المطر,أذكار المطر,Rain dhikr,Lluvia dhikr,Rain dhikr,بارش دھکر,Pluie Dhikr,Regen Dhikr,Yağmur Dhikr,Дождь Дхикр,باران Dhikr
 أدعية أخرى,أدعية أخرى,Other supplications,Otras súplicas,Altre suppliche,دیگر درخواستیں,Autres supplications,Andere Bitten,Diğer İncelemeler,Другие молитвы,سایر دعاوی
-فضل ذكر الله,فضل ذكر الله,The preference of remembrance of God,La preferencia del recuerdo de Dios,La preferenza del ricordo di Dio,خدا کی یاد کی ترجیح,La préférence de souvenir de Dieu,Die Präferenz der Erinnerung an Gott,Tanrı'nın anma tercihi,Предпочтение воспоминания о Боге,اولویت یادآوری خدا
+فضل ذكر الله,فضل ذكر الله,The merit of remembrance of God,El mérito del recuerdo de Dios,Il merito del ricordo di Dio,خدا کی یاد کی خوبی,Le mérite du souvenir de Dieu,Das Verdienst der Erinnerung an Gott,Tanrı'nın Anma değeri,Заслуга воспоминания о Боге,شایستگی یادآوری خدا
 أذكار النوم,أذكار النوم,Sleep remembrance,Recuerdo del sueño,Remembrance del sonno,نیند کی یاد,Souvenir de sommeil,Schlafinnerung,Uyku hatırası,Воспоминание со сном,یادآوری خواب
 أدعية عند الاستيقاظ,أدعية عند الاستيقاظ,Supplications when waking up,Súplicas al despertar,Supplicazione durante il risveglio,جب جاگتے ہو تو درخواستیں,Supplications lorsque vous vous réveillez,Bitten beim Aufwachen,Uyanırken,Мольбы при пробуждении,دعا هنگام بیدار شدن
 أذكار الصباح والمساء,أذكار الصباح والمساء,Morning and Evening Prayers,Oraciones de la mañana y de la tarde,Preghiere mattutine e serali,صبح اور شام کی دعائیں,Prières du matin et du soir,Morgen- und Abendgebete,Sabah ve Akşam Duaları,Утренние и вечерние молитвы,نماز صبح و عصر
@@ -299,16 +298,16 @@ permission_denied,تم رفض الأذن,permission denied,Permiso denegado,perm
 update_location:,تغير الموقع,Site change,Cambio de sitio,Cambiamento del sito,سائٹ کی تبدیلی,Changement de site,Standortänderung,Site Değişikliği,Изменение сайта,تغییر سایت
 choose_the_azan_calculation_method:,أختيار طريقة حساب الأذان,Choose the ears calculating how to calculate,Elija las orejas calculando cómo calcular,Scegli le orecchie che calcolano come calcolare,حساب کتاب کرنے کا حساب کتاب کرنے والے کانوں کا انتخاب کریں,Choisissez les oreilles calculant comment calculer,"Wählen Sie die Ohren aus, die berechnen, wie berechnet wird",Nasıl hesaplanacağını hesaplayan kulakları seçin,"Выберите уши, рассчитывающие, как рассчитать",گوش ها را انتخاب کنید که نحوه محاسبه را محاسبه کنید
 change_moazen_voice:,تغيير صوت المؤذن,Change the muezzin voice,Cambiar la voz de muezzin,Cambia la voce muezzin,میوزین آواز کو تبدیل کریں,Changez la voix de Muezzin,Ändern Sie die Muezzin -Stimme,Muezzin sesini değiştir,Изменить голос muezzin,صدای Muezzin را تغییر دهید
-,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
-,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
-,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
-,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
-,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
-,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
-,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
-,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
-,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
-,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+islamic_culture,الثقافة الاسلامية,Islamic culture,cultura islámica,Cultura islamica,اسلامی ثقافت,la culture islamique,Islamische Kultur,İslam kültürü,Исламская культура,فرهنگ اسلامی
+enjoy_watching,أستمتع بمشاهدة,Enjoy watching,Disfruto ver,Divertiti a guardare,دیکھنے سے لطف اٹھائیں,Profiter de regarder,Genieße das Zusehen,İzlemekten zevk al,Наслаждайтесь просмотром,از تماشاکردن لذت ببرید
+educate_the_Following_reading,زد ثقافتك بقراءة التالى,Increase your culture by reading the following,Aumente su cultura leyendo lo siguiente,Aumenta la tua cultura leggendo quanto segue,مندرجہ ذیل پڑھ کر اپنی ثقافت میں اضافہ کریں,Augmentez votre culture en lisant ce qui suit,"Erhöhen Sie Ihre Kultur, indem Sie Folgendes lesen",Aşağıdakileri okuyarak kültürünüzü artırın,"Увеличьте свою культуру, прочитав следующее",فرهنگ خود را با خواندن موارد زیر افزایش دهید
+azan_setting_screen,ضبط الاذان,Domination,Dominación,Dominazione,تسلط,Domination,Herrschaft,Egemenlik,Доминирование,تسلط
+Madinah-Mushaf,مصحف المدينة,City Quran,Corán de la ciudad,City Corano,سٹی قرآن,City Coran,Koran der Stadt,Şehir Kur'an,Город Коран,شهر قرآن
+tajweed-Mushaf,مصحف التجويد,Tajweed Quran,Tajweed Corán,Tajweed Corano,تاجویڈ قرآن,Tajweed Coran,Tajweed Koran,Tajweed Kur'an,Таджвид Коран,تاجود قرآن
+Warsh-Mushaf,رواية ورش عن نافع,Warsh recitation,Recitación de warsh,Warsh Novel su Nafi,نفی پر وارش ناول,Roman de Warsh sur Nafi,Kriegsroman über Nafi,Nafi'de Warsh romanı,Роман Warsh на NAFI,رمان Warsh در NAFI
+Qaloon-Mushaf,رواية قالون عن نافع,Qaloon recitation,Recitación de qaloon,Un romanzo che hanno detto su Nafi,ایک ناول انہوں نے نفی کے بارے میں کہا,Un roman qu'ils ont dit à propos de Nafi,"Ein Roman, den sie über Nafi gesagt haben",NAFI hakkında söyledikleri bir roman,"Роман, который они сказали о Нафи",رمانی که درباره نفی گفتند
+prayer_done,,أنتهت الصلاة,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+back,,رجوع,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
 ,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
 ,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
 ,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
