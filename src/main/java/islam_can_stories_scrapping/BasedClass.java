@@ -1,4 +1,4 @@
-package download_upload_images;
+package islam_can_stories_scrapping;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -8,6 +8,7 @@ import org.openqa.selenium.PageLoadStrategy;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.remote.CapabilityType;
 import org.openqa.selenium.support.ui.WebDriverWait;
+import org.testng.annotations.AfterSuite;
 import org.testng.annotations.BeforeSuite;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
@@ -40,12 +41,15 @@ public class BasedClass {
 	public void setupDriver() {
 		WebDriverManager.chromedriver().setup();
 		driver = new ChromeDriver(chromeOption());
-		driver.get("https://teachablemachine.withgoogle.com/train/image");
+		driver.get("https://islamcan.com");
 		driver.manage().window().maximize();
-		driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
-		wait = new WebDriverWait(driver, 10);
+		driver.manage().timeouts().implicitlyWait(120, TimeUnit.SECONDS);
+		wait = new WebDriverWait(driver, 100);
 	}
 	
-	
+	@AfterSuite
+	public void quitDriver() {
+		driver.close();
+	}
 
 }

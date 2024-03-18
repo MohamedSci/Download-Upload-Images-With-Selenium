@@ -3,13 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="tareq_swidan_asmaa_allah.TareqSwidanAsmaaAllah">
+      <class name="islam_can_stories_scrapping.IslamCanScrapperTestTest">
         <methods>
-          <include name="setupDriver"/>
-          <include name="createKeyValueMap"/>
           <include name="quitDriver"/>
+          <include name="setupDriver"/>
+          <include name="assignStoriesDataTOTextFile"/>
         </methods>
-      </class> <!-- tareq_swidan_asmaa_allah.TareqSwidanAsmaaAllah -->
+      </class> <!-- islam_can_stories_scrapping.IslamCanScrapperTestTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-02-24T20:19:12 EET" name="Default suite" finished-at="2024-02-24T20:19:15 EET" duration-ms="2749">
+  <suite started-at="2024-03-19T00:37:07 EET" name="Default suite" finished-at="2024-03-19T01:08:22 EET" duration-ms="1875230">
     <groups>
     </groups>
-    <test started-at="2024-02-24T20:19:12 EET" name="Default test" finished-at="2024-02-24T20:19:15 EET" duration-ms="2749">
-      <class name="mostajaab_scrapping.MostajaabMainScrapperTestTest">
-        <test-method is-config="true" signature="setupDriver()[pri:0, instance:mostajaab_scrapping.MostajaabMainScrapperTestTest@41a0aa7d]" started-at="2024-02-24T20:19:10 EET" name="setupDriver" finished-at="2024-02-24T20:19:12 EET" duration-ms="2694" status="PASS">
+    <test started-at="2024-03-19T00:37:07 EET" name="Default test" finished-at="2024-03-19T01:08:22 EET" duration-ms="1875230">
+      <class name="islam_can_stories_scrapping.IslamCanScrapperTestTest">
+        <test-method is-config="true" signature="setupDriver()[pri:0, instance:islam_can_stories_scrapping.IslamCanScrapperTestTest@63376bed]" started-at="2024-03-19T00:36:59 EET" name="setupDriver" finished-at="2024-03-19T00:37:07 EET" duration-ms="7822" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setupDriver -->
-        <test-method signature="getDoaaDataTest()[pri:0, instance:mostajaab_scrapping.MostajaabMainScrapperTestTest@41a0aa7d]" started-at="2024-02-24T20:19:12 EET" name="getDoaaDataTest" finished-at="2024-02-24T20:19:15 EET" duration-ms="2714" status="PASS">
+        <test-method signature="assignStoriesDataTOTextFile()[pri:0, instance:islam_can_stories_scrapping.IslamCanScrapperTestTest@63376bed]" started-at="2024-03-19T00:37:07 EET" name="assignStoriesDataTOTextFile" finished-at="2024-03-19T01:08:22 EET" duration-ms="1874949" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- getDoaaDataTest -->
-        <test-method is-config="true" signature="quitDriver()[pri:0, instance:mostajaab_scrapping.MostajaabMainScrapperTestTest@41a0aa7d]" started-at="2024-02-24T20:19:15 EET" name="quitDriver" finished-at="2024-02-24T20:19:15 EET" duration-ms="115" status="PASS">
+        </test-method> <!-- assignStoriesDataTOTextFile -->
+        <test-method is-config="true" signature="quitDriver()[pri:0, instance:islam_can_stories_scrapping.IslamCanScrapperTestTest@63376bed]" started-at="2024-03-19T01:08:22 EET" name="quitDriver" finished-at="2024-03-19T01:08:23 EET" duration-ms="372" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- quitDriver -->
-      </class> <!-- mostajaab_scrapping.MostajaabMainScrapperTestTest -->
+      </class> <!-- islam_can_stories_scrapping.IslamCanScrapperTestTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
