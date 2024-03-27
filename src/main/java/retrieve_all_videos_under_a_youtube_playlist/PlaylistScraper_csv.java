@@ -41,7 +41,7 @@ public class PlaylistScraper_csv  extends TestBase{
 					By.xpath("//div[@id=\"thumbnail-container\"]/ytd-thumbnail/a[@id=\"thumbnail\"]/yt-image/img")));
 			List<WebElement> imagesElements = driver
 					.findElements(By.xpath(
-							"//div[@id=\"thumbnail-container\"]/ytd-thumbnail/a[@id=\"thumbnail\"]"));
+							"//div[@id=\"thumbnail-container\"]/ytd-thumbnail/a[@id=\"thumbnail\"]/yt-image/img"));
 			System.out.println("--- imagesElements size: " + imagesElements.size());
 
 			//div/h4/span[@id="video-title"]
