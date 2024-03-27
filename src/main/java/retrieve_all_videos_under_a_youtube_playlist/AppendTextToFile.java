@@ -1,4 +1,4 @@
-package get_ayah_no_in_all_quran;
+package retrieve_all_videos_under_a_youtube_playlist;
 
 import java.io.BufferedWriter;
 import java.io.FileWriter;
@@ -6,12 +6,11 @@ import java.io.IOException;
 
 public class AppendTextToFile {
 
-    public static void AppendTextToFileFun(String textToAppend, String fileName ) {
-//        String fileName = "C:\\Users\\moham\\OneDrive\\Desktop\\zekr\\single_zekr_dataset\\get_total_ayah.txt"; // Name of the file to append to
+   public static void AppendTextToFileFun(String textToAppend, String filePath) {
 
         try {
             // FileWriter with append mode set to true
-            FileWriter fileWriter = new FileWriter(fileName, true);
+            FileWriter fileWriter = new FileWriter(filePath, true);
 
             // BufferedWriter for efficient writing
             BufferedWriter bufferedWriter = new BufferedWriter(fileWriter);

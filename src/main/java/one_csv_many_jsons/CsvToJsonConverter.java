@@ -13,7 +13,7 @@ import java.util.Map;
 public class CsvToJsonConverter {
 
     public static void main(String[] args) throws CsvValidationException {
-        String csvFilePath = "muslim_app_widgets_translation.csv";
+        String csvFilePath = "personality_app_translation.csv";
         try {
             CSVReader csvReader = new CSVReader(new FileReader(csvFilePath));
             String[] header = csvReader.readNext();

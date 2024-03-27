@@ -3,13 +3,12 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="islam_can_stories_scrapping.IslamCanScrapperTestTest">
+      <class name="retrieve_all_videos_under_a_youtube_playlist.PlaylistScraper_csv">
         <methods>
-          <include name="quitDriver"/>
+          <include name="PlaylistScraperTest"/>
           <include name="setupDriver"/>
-          <include name="assignStoriesDataTOTextFile"/>
         </methods>
-      </class> <!-- islam_can_stories_scrapping.IslamCanScrapperTestTest -->
+      </class> <!-- retrieve_all_videos_under_a_youtube_playlist.PlaylistScraper_csv -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

@@ -16,13 +16,14 @@ import java.util.concurrent.TimeUnit;
 
 
 
-public class BasedClass {
+public class TestBase {
 
 	static WebDriver driver;
-	WebDriverWait wait;
+	static WebDriverWait wait;
 	public static String downloadPath = System.getProperty("user.dir") + "\\Downloads";
-    ObjectMapper objectMapper = new ObjectMapper();
-    String jsonFilePath = "C:\\Users\\moham\\eclipse-workspace\\download_upload_images\\celebrities_data.json";
+	ObjectMapper objectMapper = new ObjectMapper();
+	String jsonFilePath = "C:\\Users\\moham\\eclipse-workspace\\download_upload_images\\celebrities_data.json";
+
 	public static ChromeOptions chromeOption() {
 		ChromeOptions chromeOptions = new ChromeOptions();
 		HashMap<String, Object> chromePrefs = new HashMap<String, Object>();
@@ -34,16 +35,15 @@ public class BasedClass {
 //		chromeOptions.addArguments("--headless");
 		return chromeOptions;
 	}
-	
-	
+
 	@BeforeSuite
 	public void setupDriver() {
 		WebDriverManager.chromedriver().setup();
 		driver = new ChromeDriver(chromeOption());
-		driver.get("https://teachablemachine.withgoogle.com/train/image");
 		driver.manage().window().maximize();
+		driver.get("https://www.youtube.com/");
 		driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
-		wait = new WebDriverWait(driver, 10);
+		wait = new WebDriverWait(driver, 60);
 	}
 	
 	
