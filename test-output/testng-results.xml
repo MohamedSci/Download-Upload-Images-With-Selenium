@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-03-28T01:46:43 EET" name="Default suite" finished-at="2024-03-28T01:47:50 EET" duration-ms="67273">
+  <suite started-at="2024-03-28T14:42:20 EET" name="Default suite" finished-at="2024-03-28T14:42:30 EET" duration-ms="10501">
     <groups>
     </groups>
-    <test started-at="2024-03-28T01:46:43 EET" name="Default test" finished-at="2024-03-28T01:47:50 EET" duration-ms="67273">
-      <class name="Maodoaa_Scarpping.MaodoaScarpping">
-        <test-method is-config="true" signature="setupDriver()[pri:0, instance:Maodoaa_Scarpping.MaodoaScarpping@1a6d8329]" started-at="2024-03-28T01:46:34 EET" name="setupDriver" finished-at="2024-03-28T01:46:43 EET" duration-ms="9178" status="PASS">
+    <test started-at="2024-03-28T14:42:20 EET" name="Default test" finished-at="2024-03-28T14:42:30 EET" duration-ms="10501">
+      <class name="retrieve_all_videos_under_a_youtube_playlist.PlaylistScraper_csv">
+        <test-method is-config="true" signature="setupDriver()[pri:0, instance:retrieve_all_videos_under_a_youtube_playlist.PlaylistScraper_csv@1a6d8329]" started-at="2024-03-28T14:42:06 EET" name="setupDriver" finished-at="2024-03-28T14:42:20 EET" duration-ms="13997" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setupDriver -->
-        <test-method signature="PlaylistScraperTest()[pri:0, instance:Maodoaa_Scarpping.MaodoaScarpping@1a6d8329]" started-at="2024-03-28T01:46:43 EET" name="PlaylistScraperTest" finished-at="2024-03-28T01:47:50 EET" duration-ms="67130" status="PASS">
+        <test-method signature="PlaylistScraperTest()[pri:0, instance:retrieve_all_videos_under_a_youtube_playlist.PlaylistScraper_csv@1a6d8329]" started-at="2024-03-28T14:42:20 EET" name="PlaylistScraperTest" finished-at="2024-03-28T14:42:30 EET" duration-ms="10367" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PlaylistScraperTest -->
-      </class> <!-- Maodoaa_Scarpping.MaodoaScarpping -->
+      </class> <!-- retrieve_all_videos_under_a_youtube_playlist.PlaylistScraper_csv -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

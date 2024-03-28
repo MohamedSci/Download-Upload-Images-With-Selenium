@@ -1,6 +1,7 @@
 package retrieve_all_videos_under_a_youtube_playlist;
 
 import org.openqa.selenium.By;
+import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.testng.annotations.Test;
@@ -15,7 +16,6 @@ import java.util.List;
 
 
 public class PlaylistScraper_csv  extends TestBase{
-
 
 	@Test
 	public static void PlaylistScraperTest() throws IOException, ParseException, InterruptedException {		// Setup Selenium WebDriver
@@ -34,6 +34,25 @@ public class PlaylistScraper_csv  extends TestBase{
 			List<WebElement> videoElements = driver.findElements(
 					By.xpath("//div[5]/div[2]/div/ytd-playlist-panel-renderer/div/div[3]//a[@id=\"wc-endpoint\"]"));
 			System.out.println("--- videoElements size: " + videoElements.size());
+			
+			
+			int playlist_length = videoElements.size();
+			for(int p=4; p<playlist_length; p=p+4) {
+				// Scroll to the last element on the screen
+				WebElement scroll_to_element = videoElements.get(p);
+				try {
+					JavascriptExecutor js =  (JavascriptExecutor) driver;
+					String Script= "arguments[0].scrollIntoView();";
+					js.executeScript(Script,scroll_to_element);
+				} catch (Exception e) {
+					System.out.println("------- JavascriptExecutor last_element Exception: "+e.getMessage());
+					e.printStackTrace();
+				}
+			}
+			// Scroll to the last element in the playlist
+			WebElement scroll_to_element = videoElements.get(playlist_length-1);
+
+			
 			
 			//div[@id="thumbnail-container"]/ytd-thumbnail/a[@id="thumbnail"]
 			//div[@id="thumbnail-container"]/ytd-thumbnail/a[@id="thumbnail"]/yt-image/img
@@ -66,7 +85,7 @@ public class PlaylistScraper_csv  extends TestBase{
 					System.out.println("--- videoTitle: " + videoTitle);
 					String textOutput = videoId + "*****" + imgThumbnil + "*****" + videoTitle;
 					System.out.println("--- textOutput: " + textOutput);
-					String filePath = "C:\\Users\\moham\\OneDrive\\Desktop\\true_love\\podcast_video_ids.csv";
+					String filePath = "C:\\Users\\moham\\OneDrive\\Desktop\\true_love\\podcast_video_ids_ii.csv";
 					System.out.println("--- filePath 1111: " + filePath);
 
 					AppendTextToFile.AppendTextToFileFun(textOutput, filePath);
